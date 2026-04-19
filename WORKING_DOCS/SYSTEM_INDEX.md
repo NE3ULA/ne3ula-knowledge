@@ -13,7 +13,7 @@
 ## Current Interpretation
 
 ### world
-Meaning, myth, lore, cosmology, and initiation.
+Meaning, myth, lore, cosmology, philosophy, doctrine, becoming, and initiation.
 
 ### engine
 E3, including human-engine and system-engine.
@@ -31,7 +31,8 @@ Participatory and infrastructural layers such as forge and artifact-system.
 Business and execution layers such as Nova Labs.
 
 ### public-surfaces
-Website and social as public-facing surfaces.
+Website and social as public-facing surfaces, including website translation and
+philosophy information architecture docs.
 
 ## Rule
 

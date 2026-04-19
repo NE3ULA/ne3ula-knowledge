@@ -13,6 +13,10 @@ Primary meaning layer of NE3ULA.
 Links:
 - `WORKING_DOCS/world/README.md`
 - `WORKING_DOCS/world/philosophy.md`
+- `WORKING_DOCS/world/MASTER_FRAMEWORK.md`
+- `WORKING_DOCS/world/CORE_DESIGN_CONSTITUTION.md`
+- `WORKING_DOCS/world/MANIFESTOS.md`
+- `WORKING_DOCS/world/becoming.md`
 - `WORKING_DOCS/world/myth.md`
 - `WORKING_DOCS/world/lore.md`
 - `WORKING_DOCS/world/cosmology.md`
@@ -131,6 +135,18 @@ Primary links:
 - `WORKING_DOCS/world/journeys.md`
 - `WORKING_DOCS/NE3ULA_ONTOLOGY.md`
 - `WORKING_DOCS/NE3ULA_KNOWLEDGE_MAP.md`
+
+---
+
+## PUBLIC SURFACES
+
+The outward-facing access layer of the system.
+
+Primary links:
+- `WORKING_DOCS/public-surfaces/README.md`
+- `WORKING_DOCS/public-surfaces/website/README.md`
+- `WORKING_DOCS/public-surfaces/website/NE3ULA_PUBLIC_DOMAIN_MODEL.md`
+- `WORKING_DOCS/public-surfaces/website/PHILOSOPHY_SITE_ARCHITECTURE.md`
 
 ---
 

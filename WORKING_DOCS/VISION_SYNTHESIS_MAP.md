@@ -70,11 +70,20 @@ Defines non-negotiable design principles.
 MANIFESTOS.md  
 Defines worldview and philosophical motivation.
 
+becoming.md  
+Defines becoming as a core world-level concept.
+
 4_LINE_MANTRA.md  
 Defines the symbolic identity anchor of the project.
 
 NE3ULA_BUSINESS_PLAN.md  
 Defines operational execution via Nova Labs.
+
+Some VISION material also now resolves into public-surface translation docs
+rather than only world or operations canon, especially:
+
+- `WORKING_DOCS/public-surfaces/website/NE3ULA_PUBLIC_DOMAIN_MODEL.md`
+- `WORKING_DOCS/public-surfaces/website/PHILOSOPHY_SITE_ARCHITECTURE.md`
 
 ---
 
