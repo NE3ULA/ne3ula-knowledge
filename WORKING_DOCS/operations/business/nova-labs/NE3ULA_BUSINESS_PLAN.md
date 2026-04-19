@@ -12,6 +12,9 @@ NE3ULA is a mythic transformation ecosystem built around worldbuilding,
 symbolic identity, guided personal evolution, creative expression, and immersive
 participation.
 
+Operationally, NE3ULA can also be described as a world-building studio and
+operating system for conscious becoming.
+
 Nova Labs is the operational vehicle responsible for turning that vision into
 coherent offerings, infrastructure, partnerships, and sustainable economics.
 
@@ -24,6 +27,24 @@ and collaborations sustain the ecosystem.
 To build and operate experiences, tools, and cultural infrastructure that help
 people move from passive participation in culture to conscious authorship of
 their own path.
+
+More directly:
+
+NE3ULA exists to expand human potential by merging music, myth, technology, and
+identity into worlds and tools that help people become the main character in
+their own story.
+
+## Vision
+
+NE3ULA envisions a future in which art, technology, and human development are
+no longer separate domains, but integrated forces for transformation.
+
+Its operational role is to help build not just products or content, but a
+living universe:
+a world people can enter,
+tools they can use,
+stories they can feel,
+and systems that help them orient, create, and evolve.
 
 ## Strategic Position
 
@@ -43,6 +64,11 @@ It is the integration of:
 - creative culture
 - participatory worldbuilding
 - adaptive technical systems
+
+## What We Do
+
+NE3ULA builds media, tools, systems, and participatory experiences that help
+people orient themselves, express themselves, and evolve.
 
 ## Offer Structure
 
@@ -204,6 +230,11 @@ language and external orientation:
 
 These lines should be treated as arrival language for public surfaces and event
 activation rather than as philosophy documents.
+
+Operationally useful descriptive language also includes:
+
+- NE3ULA is a world-building studio and operating system for conscious becoming.
+- NE3ULA builds worlds, tools, and culture for conscious becoming.
 
 ## Product Concepts Requiring Separation From Canonical Commitments
 

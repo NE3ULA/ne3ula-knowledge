@@ -5,6 +5,8 @@ It is not merely a brand, app, or story container. It is the meaning architectur
 that gives coherence to transformation, interface, expression, participation,
 and real-world execution.
 
+NE3ULA is a world-building studio and operating system for conscious becoming.
+
 This framework synthesizes the highest-level logic of the VISION cluster into a
 canonical form.
 
@@ -16,8 +18,31 @@ It uses myth, symbol, philosophy, creative expression, and adaptive technology
 to help a participant move from passive consumption toward intentional identity,
 self-recognition, and lived legend.
 
+In public-facing terms, NE3ULA builds worlds, tools, and culture for conscious
+becoming.
+
 Its aim is not optimization for its own sake.
 Its aim is meaningful transformation.
+
+## Big-Picture Framing
+
+At the broadest level, NE3ULA brings together music, myth, technology, and
+identity design to create tools, stories, experiences, and systems that help
+people navigate life more intentionally and become more fully themselves.
+
+Its ultimate object is not merely to build a brand, a company, or a product
+line.
+
+It is to build a world and a system that helps human beings:
+
+- see more clearly
+- create more consciously
+- participate more fully
+- navigate more meaningfully
+- become more intentionally
+
+NE3ULA is designed to be both a universe and a utility:
+something people can experience, use, and grow through.
 
 ## System Structure
 
@@ -104,6 +129,10 @@ Examples include:
 
 DOMAINS are not ornamental.
 They are how the myth travels and how the signal reaches people.
+
+Public-facing communication may sometimes simplify the ecosystem into a smaller
+set of domain groupings. That translation can be useful for orientation, but it
+should not replace the canonical ontology defined in this repository.
 
 ### SYSTEMS
 

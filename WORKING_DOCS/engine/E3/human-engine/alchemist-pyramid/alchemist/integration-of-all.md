@@ -23,9 +23,19 @@ all prior work can be held with more coherence.
 It is not an end-state that eliminates future drift.
 It is the deeper capacity to return.
 
+It can also be understood as the lived practice of conscious becoming:
+working with life as material,
+revealing patterns,
+interpreting experience,
+aligning with truth,
+acting on what is coherent,
+and integrating what is learned until transformation becomes embodied.
+
 ## What It Teaches
 
 - all fragments belong inside wholeness
 - peace can coexist with ongoing change
 - mastery is a center, not a crown
 - return matters more than perfection
+- the goal is not perfection, but increasing clarity, coherence, sovereignty,
+  and authorship

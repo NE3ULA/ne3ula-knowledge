@@ -11,6 +11,14 @@ development mechanics.
 This directory is therefore not a lore area and not a loose collection of
 reflective essays. It is a path architecture.
 
+At its most practical, the Alchemist Pyramid supports the lived practice of
+conscious becoming:
+revealing patterns,
+interpreting experience,
+aligning with truth,
+acting on what is coherent,
+and integrating what is learned until transformation becomes embodied.
+
 ## Why It Lives in `human-engine`
 
 The Pyramid sits in `WORKING_DOCS/engine/E3/human-engine/` because it describes
@@ -133,6 +141,9 @@ The final integrative layer.
 This folder represents the point at which prior layers converge. It is the
 place where the participant returns with greater coherence, wider awareness,
 and a more integrated relationship to force, path, and identity.
+
+This is where the Alchemist Path becomes most legible as lived practice rather
+than abstract philosophy.
 
 ## Supporting Frameworks
 

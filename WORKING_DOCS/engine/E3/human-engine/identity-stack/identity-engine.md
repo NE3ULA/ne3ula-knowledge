@@ -23,10 +23,20 @@ It treats identity as something that must be practiced, not merely declared.
 
 The archive consistently points to five recurring functions:
 
+Reveal. Interpret. Align. Act. Integrate.
+
+These five functions describe the movement from awareness to authorship:
+seeing the pattern, understanding its meaning, clarifying what is true, taking
+the next coherent step, and stabilizing change through reflection and
+repetition.
+
 ### Friction Mapping
 
 Friction reveals where lived behavior and authored identity are not fully in
 sync.
+
+Function:
+Reveal
 
 Not all friction is misalignment. Some friction indicates growth pressure.
 The engine therefore reads friction as diagnostic signal rather than as failure.
@@ -39,12 +49,18 @@ people, pleasure, and production.
 Modes are situational states, not identity primitives.
 They help explain how identity is currently being expressed or constrained.
 
+Function:
+Interpret
+
 ### Ritual Design
 
 Rituals stabilize identity in practice.
 
 They translate chosen principles into repeatable actions, making coherence more
 durable than intention alone.
+
+Function:
+Act
 
 ### Drift Detection
 
@@ -53,12 +69,18 @@ pattern.
 
 The engine treats drift as a call for reconnection, not a moral defect.
 
+Function:
+Align
+
 ### Integration Prompts
 
 Prompts help the participant interpret what a pattern means and what return may
 require.
 
 Their role is reflective, not deterministic.
+
+Function:
+Integrate
 
 ## Identity Movement
 
