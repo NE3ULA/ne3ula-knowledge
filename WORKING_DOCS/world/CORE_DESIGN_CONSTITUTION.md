@@ -114,6 +114,13 @@ AI, wearables, interfaces, and interactive systems should deepen:
 They should not reduce the participant to data exhaust, behavioral extraction,
 or passive automation.
 
+The individual remains sovereign.
+
+No tool, system, symbol, or intelligence should replace conscience,
+self-authorship, or responsibility.
+Technology may assist awareness and navigation, but it must never be framed as
+the owner of human truth.
+
 ## 9. Play, Wonder, and Curiosity
 
 NE3ULA rejects sterile optimization culture as a complete philosophy of life.
@@ -157,6 +164,11 @@ Correction: redesign the model so value does not depend on personality gravity.
 
 5. Interface convenience strips out philosophical depth.
 Correction: restore meaning-bearing structure, not just functional speed.
+
+## 12. Constitutional Test
+
+Whatever does not lead toward greater clarity, coherence, responsibility, and
+conscious becoming must be revised, relinquished, or transcended.
 
 ## Canon Line
 

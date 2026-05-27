@@ -59,3 +59,20 @@ flowchart TD
     J -. exposes .-> D
     J -. exposes .-> E
     J -. exposes .-> F
+```
+
+## Human Engine Guide Flow
+
+```mermaid
+flowchart TD
+    A["NE3ULA FIELD"] --> B["WORLD"]
+    B --> C["ALCHEMIST PYRAMID"]
+    C --> D["IDENTITY ENGINE"]
+    D --> E["PATHS"]
+    E --> F["PATH GUARDIAN PANTHEON"]
+    F --> G["INTERFACE"]
+    G --> H["PLAYER EXPERIENCE"]
+```
+
+The Path Guardian Pantheon functions as the symbolic guide layer between Paths
+and the interface / player-facing experience.

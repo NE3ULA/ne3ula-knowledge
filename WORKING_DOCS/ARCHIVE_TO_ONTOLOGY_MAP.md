@@ -22,16 +22,24 @@ This is the historical source cluster for the NE3ULA concept system.
 
 ### VISION
 Primary destination:
+- `world/MASTER_FRAMEWORK.md`
+- `world/MANIFESTOS.md`
+- `world/CORE_DESIGN_CONSTITUTION.md`
 - `world/philosophy.md`
-- `world/myth.md`
-- `world/cosmology.md`
-- `operations/business/nova-labs/README.md`
+- `world/becoming.md`
+- `operations/business/nova-labs/NE3ULA_BUSINESS_PLAN.md`
+- `public-surfaces/website/NE3ULA_PUBLIC_DOMAIN_MODEL.md`
+- `public-surfaces/website/PHILOSOPHY_SITE_ARCHITECTURE.md`
 
 Examples:
-- manifestos → `world/philosophy.md`
-- core design constitution → `world/philosophy.md`
-- master framework → `world/cosmology.md`
-- business plan → `operations/business/nova-labs/README.md`
+- manifestos → `world/MANIFESTOS.md`
+- core design constitution → `world/CORE_DESIGN_CONSTITUTION.md`
+- master framework → `world/MASTER_FRAMEWORK.md`
+- doctrine / worldview synthesis → `world/philosophy.md`
+- becoming framing → `world/becoming.md`
+- business plan → `operations/business/nova-labs/NE3ULA_BUSINESS_PLAN.md`
+- public-facing domain simplification → `public-surfaces/website/NE3ULA_PUBLIC_DOMAIN_MODEL.md`
+- philosophy-site IA / page flow → `public-surfaces/website/PHILOSOPHY_SITE_ARCHITECTURE.md`
 
 ---
 
@@ -118,9 +126,9 @@ archive item
 
 ## Canonical Reminder
 
-NE3ULA = world  
-E3 = engine  
-AXZIO = interface  
-Domains = expression  
-Systems = participation  
+NE3ULA = world
+E3 = engine
+AXZIO = interface
+Domains = expression
+Systems = participation
 Legend = outcome

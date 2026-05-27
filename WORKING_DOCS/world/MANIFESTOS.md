@@ -18,6 +18,9 @@ agency, and self-recognition.
 NE3ULA does not exist to impress the participant.
 It exists to help the participant remember themselves.
 
+NE3ULA is a world-building studio and operating system for conscious becoming.
+It builds worlds, tools, and culture for conscious becoming.
+
 ## The Spark Within
 
 NE3ULA begins from a simple belief:
@@ -68,6 +71,14 @@ Its recurring themes are:
 - myth, machine, and mind in relationship
 - the participant as a node in a larger constellation of meaning
 
+In public-facing terms, NE3ULA can also be named as a creative technology and
+media ecosystem:
+
+- part music and media studio
+- part technology lab
+- part identity and transformation system
+- part cultural and mythmaking platform
+
 ## The Creator Stance
 
 The archive also contains a creator-facing manifesto voice that is useful, but
@@ -99,6 +110,10 @@ NE3ULA is not:
 
 It is an invitation into a more authored relationship with self, technology,
 creativity, and meaning.
+
+It is not merely a brand, a company, or a product line.
+It is an attempt to build a world and a system people can enter, use, feel, and
+grow through.
 
 ## Canonical Phrases
 
