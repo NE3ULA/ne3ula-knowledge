@@ -1,19 +1,19 @@
 # 🏗️ Builder Path — Step 1: The Empty Blueprint
 
 > “Before anything can be built, you must face the blankness without fear.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Every act of creation begins with a space untouched.
-> 
-> 
+>
+>
 > Not with a plan, not with a command — but with a silent decision to begin.
-> 
+>
 > **The Empty Blueprint** reminds you: emptiness is not your enemy — it is your invitation.
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 1 insight to your AI.d?
-> 
-> 
+>
+>
 > This establishes your initial foundation map for Builder progression.”
-> 
+>
 
 🔘 Log this to AI.d
 

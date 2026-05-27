@@ -1,19 +1,19 @@
 # 🏗️ Builder Path — Step 4: The Hidden Framework
 
 > “What supports your structure is rarely seen — but always felt.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Not everything you build is visible.
-> 
-> 
+>
+>
 > Beneath every pillar, behind every wall, there is a framework that carries the true weight.
-> 
+>
 > **The Hidden Framework** reminds you: what no one sees often determines what everyone experiences.
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 4 insight to your AI.d?
-> 
-> 
+>
+>
 > This helps define the hidden systems that support your long-term transformation.”
-> 
+>
 
 🔘 Log this to AI.d
 

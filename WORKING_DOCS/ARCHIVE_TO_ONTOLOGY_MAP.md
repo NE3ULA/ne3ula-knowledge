@@ -126,9 +126,9 @@ archive item
 
 ## Canonical Reminder
 
-NE3ULA = world  
-E3 = engine  
-AXZIO = interface  
-Domains = expression  
-Systems = participation  
+NE3ULA = world
+E3 = engine
+AXZIO = interface
+Domains = expression
+Systems = participation
 Legend = outcome

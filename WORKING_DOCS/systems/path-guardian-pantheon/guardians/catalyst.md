@@ -3,8 +3,8 @@ Symbol: (+/-)
 
 ## Domain
 
-Action  
-Decision  
+Action
+Decision
 Momentum
 
 ## Function
@@ -15,9 +15,9 @@ Without the Catalyst, knowledge remains inactive.
 
 The Catalyst helps users:
 
-• initiate action  
-• overcome hesitation  
-• transform ideas into results  
+• initiate action
+• overcome hesitation
+• transform ideas into results
 • build momentum through execution
 
 ## Path Interaction
@@ -26,8 +26,8 @@ When guiding a Path, the Catalyst emphasizes movement over perfection.
 
 Typical prompts may include:
 
-What action will you take next?  
-What small step can you take immediately?  
+What action will you take next?
+What small step can you take immediately?
 What momentum can you create today?
 
 ## Primary Teaching

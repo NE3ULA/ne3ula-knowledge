@@ -1,19 +1,19 @@
 # 🧠 Architect Path — Step 1: The Map You Didn’t Make
 
 > “You were handed a map — but you were never asked where you actually wanted to go.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Before you can build with purpose, you have to question what you’ve inherited.
-> 
-> 
+>
+>
 > The culture, the timelines, the expectations — systems built by others for other ends.
-> 
+>
 > **The Map You Didn’t Make** reveals the first truth of the Architect: before you can design *for* yourself, you must learn to see what’s been designing *you.*
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 1 insight to your AI.d?
-> 
-> 
+>
+>
 > This begins building your awareness grid and highlights inherited systems for review.”
-> 
+>
 
 🔘 Log this to AI.d
 

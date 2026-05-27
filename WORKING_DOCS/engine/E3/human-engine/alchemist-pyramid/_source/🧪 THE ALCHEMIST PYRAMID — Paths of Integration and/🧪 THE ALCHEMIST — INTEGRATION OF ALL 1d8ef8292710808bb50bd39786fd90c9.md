@@ -3,10 +3,10 @@
 *Return to Signal*
 
 > “You are not above the path.
-> 
-> 
+>
+>
 > You are the path made whole.”
-> 
+>
 
 ---
 
@@ -58,10 +58,10 @@ Rest here is:
 - Silence that speaks
 
 > The Alchemist does not rest from the journey —
-> 
-> 
+>
+>
 > The Alchemist *is* the rest.
-> 
+>
 
 ---
 
@@ -172,12 +172,12 @@ It simply asks you to remember.
 ---
 
 > The Alchemist is not who you become.
-> 
-> 
+>
+>
 > It is who you were before forgetting.
-> 
+>
 > And now, you remember.
-> 
+>
 
 🧪
 

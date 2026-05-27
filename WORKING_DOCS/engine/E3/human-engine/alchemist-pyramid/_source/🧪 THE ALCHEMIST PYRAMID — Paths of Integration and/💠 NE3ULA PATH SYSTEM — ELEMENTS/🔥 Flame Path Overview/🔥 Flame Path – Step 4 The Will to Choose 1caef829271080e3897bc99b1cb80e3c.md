@@ -1,7 +1,7 @@
 # 🔥 Flame Path – Step 4: The Will to Choose
 
 > “To choose is to create. Even the absence of choice is a decision.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,7 +28,7 @@
 ### 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this to your AI.d? This helps your AI.d recognize your internal decision-making model and reflect it back to you in moments of doubt or choice.”
-> 
+>
 
 🔘 Log this to AI.d
 

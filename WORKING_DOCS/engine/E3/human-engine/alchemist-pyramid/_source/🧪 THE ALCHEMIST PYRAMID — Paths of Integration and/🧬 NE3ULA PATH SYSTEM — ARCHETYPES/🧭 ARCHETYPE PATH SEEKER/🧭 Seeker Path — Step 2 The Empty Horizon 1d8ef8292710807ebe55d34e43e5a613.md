@@ -1,21 +1,21 @@
 # 🧭 Seeker Path — Step 2: The Empty Horizon
 
 > “The unknown is not empty. It is waiting for you to arrive.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > To seek is to leave something behind.
-> 
-> 
+>
+>
 > Not everything you carry will make it across the horizon.
-> 
+>
 > **The Empty Horizon** is the first real confrontation:
-> 
+>
 > the vastness that humbles and invites you beyond old boundaries.
-> 
+>
 
 ---
 
@@ -50,10 +50,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 2 insight to your AI.d?
-> 
-> 
+>
+>
 > This helps track where thresholds and attachments may need realignment.”
-> 
+>
 
 🔘 Log this to AI.d
 

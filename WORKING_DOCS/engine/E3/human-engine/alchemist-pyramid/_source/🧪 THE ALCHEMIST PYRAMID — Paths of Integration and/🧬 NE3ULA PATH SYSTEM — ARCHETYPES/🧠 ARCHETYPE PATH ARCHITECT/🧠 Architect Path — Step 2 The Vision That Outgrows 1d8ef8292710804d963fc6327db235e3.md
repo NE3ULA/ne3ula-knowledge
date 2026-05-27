@@ -1,19 +1,19 @@
 # 🧠 Architect Path — Step 2: The Vision That Outgrows the Frame
 
 > “When your vision expands, the cage you thought was a cathedral begins to crack.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > There comes a moment when the systems you’ve relied on — even the ones you built — start to feel too small.
-> 
-> 
+>
+>
 > Your thoughts outgrow your language. Your purpose no longer fits inside your calendar.
-> 
+>
 > **The Vision That Outgrows the Frame** asks: *Can you let your current design break, so something larger can emerge?*
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 2 insight to your AI.d?
-> 
-> 
+>
+>
 > This logs structural tension and activates expansion protocols.”
-> 
+>
 
 🔘 Log this to AI.d
 

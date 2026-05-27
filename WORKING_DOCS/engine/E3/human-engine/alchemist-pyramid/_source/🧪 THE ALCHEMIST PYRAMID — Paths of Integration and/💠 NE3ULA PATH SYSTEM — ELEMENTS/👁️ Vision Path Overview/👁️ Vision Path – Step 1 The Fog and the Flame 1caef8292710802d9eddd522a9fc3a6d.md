@@ -1,7 +1,7 @@
 # 👁️ Vision Path – Step 1: The Fog and the Flame
 
 > “Vision begins not with clarity—but with curiosity.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,7 +28,7 @@
 ### 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this to your AI.d? This helps it learn your intuitive signal—before clarity arrives.”
-> 
+>
 
 🔘 Log this to AI.d
 

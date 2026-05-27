@@ -68,7 +68,7 @@ Use this space to define your **ongoing creation(s)** — whether it's a busines
 ## 🌀 Build Like a Mirror
 
 > The thing you long for most… might be the thing you were designed to bring.
-> 
+>
 
 Your creation doesn’t have to be big to matter.
 
@@ -80,7 +80,7 @@ It just has to be **true**.
 
 > Your creative direction informs how NE3ULA mirrors resources, rituals, collaborators, and even challenges.
 You may be prompted in the future to reflect on your consistency and energy investment.
-> 
+>
 
 🔘 Sync this creation to AI.d
 

@@ -1,12 +1,12 @@
 # 🗡️ ARCHETYPE PATH: CHALLENGER
 
 > “The wound is where the light enters. But sometimes, the wound is the light.”
-> 
-> 
+>
+>
 > The Challenger doesn’t ask permission. They ask questions no one else dares to.
-> 
+>
 > They are fire, friction, and truth in its most uncomfortable form.
-> 
+>
 
 ---
 
@@ -36,7 +36,7 @@ They are here to **force clarity** where illusion once lived.
 ## 🌑 Shadow Expressions
 
 > “Not every fire is sacred.”
-> 
+>
 
 The Challenger is vulnerable to:
 
@@ -90,7 +90,7 @@ These are not tests of force. They are invitations to use power with presence.
 ## 💬 Challenger Affirmations
 
 > Say these when you need to burn the old map.
-> 
+>
 - “I do not fear the fire. I am the fire.”
 - “My resistance is a response to truth, not a rejection of it.”
 - “I am here to awaken, not to dominate.”
@@ -109,10 +109,10 @@ These are not tests of force. They are invitations to use power with presence.
 ## 🌀 Archetype Spiral
 
 > “The Challenger doesn’t just confront the world — they confront the self.
-> 
-> 
+>
+>
 > And only through that crucible do they become what they were born to be.”
-> 
+>
 
 ---
 

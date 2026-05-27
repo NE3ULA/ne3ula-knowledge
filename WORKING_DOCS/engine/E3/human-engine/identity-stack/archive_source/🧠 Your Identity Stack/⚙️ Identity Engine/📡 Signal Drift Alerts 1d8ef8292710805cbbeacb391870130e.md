@@ -18,10 +18,10 @@ It often starts quietly:
 - You go autopilot in the name of “being productive”
 
 > Drift isn’t failure.
-> 
-> 
+>
+>
 > It’s just a sign that **reconnection is due.**
-> 
+>
 
 ---
 
@@ -83,10 +83,10 @@ You can opt in for:
 ## 🔄 Drift ≠ Defeat
 
 > “You can’t be aligned all the time.
-> 
-> 
+>
+>
 > But you *can* become someone who knows how to return.”
-> 
+>
 
 This module helps you make **returning to your signal** a skill — not a shame spiral.
 

@@ -1,19 +1,19 @@
 # 🏗️ Builder Path — Step 2: The Weight of the First Stone
 
 > “The first step isn’t the hardest — it’s the heaviest.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Beginning is a sacred burden.
-> 
-> 
+>
+>
 > The moment you lift the first stone, the dream shifts into form — and form carries weight.
-> 
+>
 > **The Weight of the First Stone** reminds you: your intention becomes real only when you are willing to carry it.
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 2 insight to your AI.d?
-> 
-> 
+>
+>
 > This adds a tangible weight to your intention inside the Builder timeline.”
-> 
+>
 
 🔘 Log this to AI.d
 

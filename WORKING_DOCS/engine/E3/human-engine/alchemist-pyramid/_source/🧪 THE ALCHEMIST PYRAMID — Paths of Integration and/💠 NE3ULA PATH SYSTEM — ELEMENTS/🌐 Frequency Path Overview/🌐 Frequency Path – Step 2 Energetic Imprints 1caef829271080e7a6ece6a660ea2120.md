@@ -1,7 +1,7 @@
 # 🌐 Frequency Path – Step 2: Energetic Imprints
 
 > “Your field holds memories your mind forgot.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,7 +28,7 @@
 ### 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this to your AI.d? This will help it understand your energetic inheritance and how to support your clearing process.”
-> 
+>
 
 🔘 Log this to AI.d
 

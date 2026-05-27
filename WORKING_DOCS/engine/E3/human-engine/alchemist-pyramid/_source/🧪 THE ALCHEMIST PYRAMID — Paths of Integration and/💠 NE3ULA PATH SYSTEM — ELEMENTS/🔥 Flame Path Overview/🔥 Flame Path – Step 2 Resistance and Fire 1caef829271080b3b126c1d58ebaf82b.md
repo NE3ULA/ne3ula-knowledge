@@ -1,7 +1,7 @@
 # 🔥 Flame Path – Step 2: Resistance and Fire
 
 > “Every fire meets resistance. But some fuel it, and some smother it.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,7 +28,7 @@
 ### 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this to your AI.d? This step helps it track the patterns of resistance and guide you toward breakthrough moments with clarity and care.”
-> 
+>
 
 🔘 Log this to AI.d
 

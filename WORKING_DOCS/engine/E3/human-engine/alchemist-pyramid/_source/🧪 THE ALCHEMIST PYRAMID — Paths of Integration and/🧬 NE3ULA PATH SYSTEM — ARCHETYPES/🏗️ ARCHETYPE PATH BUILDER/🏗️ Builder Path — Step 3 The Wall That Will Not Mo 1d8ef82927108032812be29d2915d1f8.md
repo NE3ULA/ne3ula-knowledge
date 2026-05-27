@@ -1,19 +1,19 @@
 # 🏗️ Builder Path — Step 3: The Wall That Will Not Move
 
 > “Every structure you build will eventually test your strength.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > There will come a moment when what you're building resists you.
-> 
-> 
+>
+>
 > Progress halts. Obstacles rise. Doubt creeps in.
-> 
+>
 > **The Wall That Will Not Move** reveals this truth: resistance is not failure — it is the sharpening of purpose.
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 3 insight to your AI.d?
-> 
-> 
+>
+>
 > This identifies your current growth tension for strategic re-alignment.”
-> 
+>
 
 🔘 Log this to AI.d
 

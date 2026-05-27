@@ -1,12 +1,12 @@
 # 🧭 ARCHETYPE PATH: SEEKER
 
 > “The wound is the place where the light enters you.” — Rumi
-> 
-> 
+>
+>
 > The Seeker is the one who hears the signal before they understand it.
-> 
+>
 > The itch, the whisper, the restlessness — it all begins here.
-> 
+>
 
 ---
 
@@ -38,7 +38,7 @@ To walk the Seeker path is to allow questions to shape you.
 ## 🌑 Shadow Expressions
 
 > “Not all who wander are lost. But some are hiding.”
-> 
+>
 
 The Seeker is vulnerable to:
 
@@ -96,7 +96,7 @@ These aren't tasks — they are *portals.* Simple rituals that open deeper truth
 ## 💬 Seeker Affirmations
 
 > Use these not to control thought — but to invite clarity into it.
-> 
+>
 - “I am called by something older than words.”
 - “The unknown is not my enemy. It is my invitation.”
 - “I trust the feeling, even before I understand the path.”
@@ -115,10 +115,10 @@ These aren't tasks — they are *portals.* Simple rituals that open deeper truth
 ## 🌀 Archetype Spiral
 
 > “We all begin as Seekers.
-> 
-> 
+>
+>
 > But the bravest ones? They remember to *return* as Seekers — even after they’ve built, broken, and created entire realities.”
-> 
+>
 
 ---
 

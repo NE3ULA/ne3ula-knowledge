@@ -1,21 +1,21 @@
 # 🧭 Seeker Path — Step 1: The Restless Whisper
 
 > “You were not born to stay asleep. Somewhere inside you, the stars still murmur your name.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Before the journey begins, there is a stirring. A whisper.
-> 
-> 
+>
+>
 > You cannot see it yet — but you can *feel* it.
-> 
+>
 > **The Restless Whisper** is the first invitation:
-> 
+>
 > a knowing without language, a discontent without cause.
-> 
+>
 
 ---
 
@@ -50,10 +50,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 1 insight to your AI.d?
-> 
-> 
+>
+>
 > Your reflections refine how your story unfolds within NE3ULA.”
-> 
+>
 
 🔘 Log this to AI.d
 

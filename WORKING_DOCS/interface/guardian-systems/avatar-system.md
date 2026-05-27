@@ -14,9 +14,9 @@ This system allows the user’s journey to feel embodied and story-like rather t
 
 The avatar system serves several functions:
 
-• represent the user’s current state within the system  
-• visually embody the guiding Guardian for the active Path  
-• provide narrative immersion within the NE3ULA experience  
+• represent the user’s current state within the system
+• visually embody the guiding Guardian for the active Path
+• provide narrative immersion within the NE3ULA experience
 • allow identity development to be experienced symbolically
 
 ## Initial State
@@ -25,10 +25,10 @@ At the beginning of the experience, Guardians appear as canonical archetypes.
 
 Examples:
 
-Architect → {..}  
-Alchemist → ±  
-Observer → [○]  
-Navigator → /⇄\  
+Architect → {..}
+Alchemist → ±
+Observer → [○]
+Navigator → /⇄\
 Catalyst → (+/-)
 
 These archetypal forms provide clarity and psychological framing.
@@ -41,9 +41,9 @@ Over time, the Guardian gradually becomes a hybrid representation of both the ar
 
 The Guardian can appear in:
 
-• the main application interface  
-• Path guidance screens  
-• generated narrative imagery  
+• the main application interface
+• Path guidance screens
+• generated narrative imagery
 • story fragments within the system
 
 The Guardian becomes the symbolic representation of the player within the NE3ULA environment.

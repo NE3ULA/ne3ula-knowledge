@@ -1,7 +1,7 @@
 # 👁️ Vision Path – Step 2: Future Fragments
 
 > “You’ve already glimpsed pieces of your future. Now gather them.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,12 +28,12 @@
 ### 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this to your AI.d? These fragments help it build a model of your true direction.”
-> 
+>
 
 🔘 Log this to AI.d
 
 🔘 Stay silent for now
 
-👉 [👁️ Vision Path – Step 3: *Designing the Signal*](%F0%9F%91%81%EF%B8%8F%20Vision%20Path%20%E2%80%93%20Step%203%20Designing%20the%20Signal%201caef82927108003876fdd3dccde932e.md) 
+👉 [👁️ Vision Path – Step 3: *Designing the Signal*](%F0%9F%91%81%EF%B8%8F%20Vision%20Path%20%E2%80%93%20Step%203%20Designing%20the%20Signal%201caef82927108003876fdd3dccde932e.md)
 
 ---

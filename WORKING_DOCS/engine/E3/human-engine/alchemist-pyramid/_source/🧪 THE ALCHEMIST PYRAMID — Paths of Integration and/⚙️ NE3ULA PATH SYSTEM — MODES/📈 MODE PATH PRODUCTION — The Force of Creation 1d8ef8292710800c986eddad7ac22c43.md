@@ -1,10 +1,10 @@
 # 📈 MODE PATH: PRODUCTION — The Force of Creation
 
 > “Creation is not what you do after thinking.
-> 
-> 
+>
+>
 > It’s what you become by acting.”
-> 
+>
 
 ---
 
@@ -59,14 +59,14 @@ True production includes:
 - **Space for signal** — Rest makes room for insight to emerge
 
 > You don’t just build with effort — you build with empty space.
-> 
+>
 
 ---
 
 ### 🔄 **Transitional Indicators**
 
 > How do you know it’s time to shift — or recalibrate — within Production Mode?
-> 
+>
 - You're forcing productivity without clarity or meaning
 - You feel emotionally or creatively dry despite high output
 - You’re ignoring pleasure, connection, or rest
@@ -168,9 +168,9 @@ You may shift toward:
 ---
 
 > 📈 Production is not what you do to become valuable.
-> 
-> 
+>
+>
 > It’s what you do when you remember you already are.
-> 
+>
 
 [✅ MODES COMPLETE — You’ve Found Your Flow](%E2%9C%85%20MODES%20COMPLETE%20%E2%80%94%20You%E2%80%99ve%20Found%20Your%20Flow%201d8ef82927108073889cd7c35c7adde8.md)

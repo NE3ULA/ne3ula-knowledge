@@ -1,19 +1,19 @@
 # 🗡️ Challenger Path — Step 3: The Fire Without a Target
 
 > “If you don’t aim the fire, it will find something to burn — including you.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Energy without direction becomes destruction.
-> 
-> 
+>
+>
 > When anger has no name, when truth has no aim, the Challenger risks becoming noise instead of signal.
-> 
+>
 > **The Fire Without a Target** asks you: *Are you fighting to awaken — or just to fight?*
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 3 insight to your AI.d?
-> 
-> 
+>
+>
 > This helps refine your aim and emotional targeting calibration.”
-> 
+>
 
 🔘 Log this to AI.d
 

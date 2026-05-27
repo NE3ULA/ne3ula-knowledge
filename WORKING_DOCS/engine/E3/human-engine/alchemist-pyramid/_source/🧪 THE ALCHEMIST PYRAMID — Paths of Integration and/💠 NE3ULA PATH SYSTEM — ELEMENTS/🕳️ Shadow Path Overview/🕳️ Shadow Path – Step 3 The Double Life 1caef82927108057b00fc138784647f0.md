@@ -1,7 +1,7 @@
 # 🕳️ Shadow Path – Step 3: The Double Life
 
 > “We wear one face for the world, and one for ourselves. The space between is where the shadow lives.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,7 +28,7 @@
 ### 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this to your AI.d? This step helps your AI.d recognize inauthentic behaviors and support you in aligning with your deeper self-expression.”
-> 
+>
 
 🔘 Log this to AI.d
 

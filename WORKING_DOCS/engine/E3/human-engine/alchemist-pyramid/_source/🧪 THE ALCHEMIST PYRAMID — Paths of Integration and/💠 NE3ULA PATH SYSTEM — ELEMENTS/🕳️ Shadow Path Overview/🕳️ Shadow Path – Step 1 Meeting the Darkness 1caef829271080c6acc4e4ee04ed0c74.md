@@ -1,7 +1,7 @@
 # 🕳️ Shadow Path – Step 1: Meeting the Darkness
 
 > “You cannot escape a shadow by running from it. Only by turning toward it.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,7 +28,7 @@
 ### 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this to your AI.d? This will help it track your protective layers and support you with gentle awareness instead of reactivity.”
-> 
+>
 
 🔘 Log this to AI.d
 

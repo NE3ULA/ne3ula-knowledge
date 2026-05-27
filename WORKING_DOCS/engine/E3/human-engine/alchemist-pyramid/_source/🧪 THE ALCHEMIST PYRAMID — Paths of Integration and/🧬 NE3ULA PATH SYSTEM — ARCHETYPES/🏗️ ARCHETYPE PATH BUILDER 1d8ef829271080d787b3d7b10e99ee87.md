@@ -1,12 +1,12 @@
 # 🏗️ ARCHETYPE PATH: BUILDER
 
 > “Discipline is the bridge between goals and accomplishment.” — Jim Rohn
-> 
-> 
+>
+>
 > The Builder is the one who turns will into form.
-> 
+>
 > Where the Seeker walks into the unknown, the Builder lays the path — brick by brick.
-> 
+>
 
 ---
 
@@ -38,7 +38,7 @@ They understand that anything worth becoming must be built — and that building
 ## 🌑 Shadow Expressions
 
 > “Not everything solid is safe.”
-> 
+>
 
 The Builder is vulnerable to:
 
@@ -96,7 +96,7 @@ These aren't meant to be completed. They're meant to be *lived.*
 ## 💬 Builder Affirmations
 
 > These are anchors — not goals. Return to them when your vision gets heavy.
-> 
+>
 - “I build with purpose, not pressure.”
 - “Every action is a brick. Every breath is a blessing.”
 - “Discipline is devotion in motion.”
@@ -115,10 +115,10 @@ These aren't meant to be completed. They're meant to be *lived.*
 ## 🌀 Archetype Spiral
 
 > “The Builder doesn’t just shape the world.
-> 
-> 
+>
+>
 > They become the bridge — between the unseen and the solid, the spark and the system.”
-> 
+>
 
 ---
 

@@ -3,10 +3,10 @@
 ![4.png](%F0%9F%A7%AA%20THE%20ALCHEMIST%20PYRAMID%20%E2%80%94%20Paths%20of%20Integration%20and/4.png)
 
 > “This is not a ladder.
-> 
-> 
+>
+>
 > It’s a pattern. A signal. A spiral back to Self.”
-> 
+>
 
 ---
 
@@ -31,47 +31,47 @@ and how to return when you drift.
 ### 🧱 The 6 Core Layers:
 
 1. **Hermetic Principles** *(Base Laws)*
-    
+
     → The universal code that underlies all experience
-    
+
     → Mentalism, Correspondence, Vibration, Polarity, Rhythm, Cause & Effect, Gender
-    
+
 2. **Archetypes** *(Progressive Story Roles)*
-    
+
     → Seeker, Builder, Challenger, Architect
-    
+
     → Phases of becoming that evolve with you
-    
+
 3. **Core Energies** *(Internal Forces)*
-    
+
     → Flame, Mirror, Shadow, Frequency, Vision
-    
+
     → Inner dynamics that shape perception, response, and self-expression
-    
+
     → Explored through the **RING model**: Mythos · Logos · Pathos · Ethos
-    
+
 4. **Modes** *(States of Engagement)*
-    
+
     → Pleasure, People, Production
-    
+
     → How your current self expresses its signal in motion
-    
+
     → Includes **Rest**, **Transitional Indicators**, and energetic awareness
-    
+
 5. **Polarity** *(Reflective Layer)*
-    
+
     → The final mirror — revealing tension, contrast, and integration
-    
+
     → Not a path to walk, but a threshold to see through
-    
+
 6. **The Alchemist** *(Return / Integration)*
-    
+
     → The synthesis of all prior paths
-    
+
     → Not an end — but a resonance
-    
+
     → Where you return when alignment is restored
-    
+
 
 ---
 
@@ -116,16 +116,16 @@ and how to return **without shame**.
 ---
 
 > You are not climbing a mountain.
-> 
-> 
+>
+>
 > You are listening to a pattern.
-> 
+>
 > You are living a myth.
-> 
+>
 > This is the Pyramid of the Alchemist —
-> 
+>
 > and you have already begun.
-> 
+>
 
 ---
 

@@ -1,19 +1,19 @@
 # 🗡️ Challenger Path — Step 4: The Edge That Teaches Mercy
 
 > “True power isn’t proven by how hard you strike — but by how often you choose not to.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Mercy is not weakness.
-> 
-> 
+>
+>
 > To wield power consciously is to know when *not* to use it.
-> 
+>
 > **The Edge That Teaches Mercy** reminds you: the Challenger matures not by burning brighter — but by learning to hold the flame without needing to throw it.
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 4 insight to your AI.d?
-> 
-> 
+>
+>
 > This registers restraint as a mark of aligned challenge.”
-> 
+>
 
 🔘 Log this to AI.d
 

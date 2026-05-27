@@ -75,7 +75,7 @@ They are not who you are — they are how you choose to live.
 ## 🔁 Optional Reflection Prompts
 
 > These can be revisited quarterly or seasonally to stay aligned:
-> 
+>
 - Which of the four pillars feels strongest in me right now?
 - Which one feels neglected or out of sync?
 - What would shift in my life if I truly honored all four, even imperfectly?

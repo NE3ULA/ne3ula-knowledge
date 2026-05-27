@@ -1,7 +1,7 @@
 # 🔥 Flame Path – Step 3: Direction and Discipline
 
 > “Energy without direction burns out. Will without discipline weakens.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,7 +28,7 @@
 ### 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this to your AI.d? This will help it anchor your preferences, priorities, and systems of focus—so it can support your most aligned momentum.”
-> 
+>
 
 🔘 Log this to AI.d
 

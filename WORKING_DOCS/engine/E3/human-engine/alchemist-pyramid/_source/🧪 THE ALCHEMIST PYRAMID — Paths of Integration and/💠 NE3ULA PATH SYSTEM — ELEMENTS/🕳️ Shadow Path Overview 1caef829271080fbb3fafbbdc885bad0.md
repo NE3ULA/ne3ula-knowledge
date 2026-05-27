@@ -3,7 +3,7 @@
 ## *Fear is not the enemy. It is the invitation.*
 
 > “The Shadow does not wish to harm you. It only wants to be seen.”
-> 
+>
 
 ---
 

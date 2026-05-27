@@ -3,10 +3,10 @@
 *Weekly / Monthly Alignment Overview*
 
 > "This is a mirror — not a measurement.
-> 
-> 
+>
+>
 > Let it reflect, not judge."
-> 
+>
 
 ---
 
@@ -17,7 +17,7 @@
 🟢 High | 🟡 Moderate | 🔴 Drifted
 
 > Based on Core rituals, friction events, and daily Mode rhythm.
-> 
+>
 
 📝 *Optional Comment:*
 
@@ -58,7 +58,7 @@ _“This week felt _____ because ____*.”*
 🧠 *AI.d Reflection Prompt:*
 
 > “What story were you telling yourself during that avoidance loop?”
-> 
+>
 
 🔘 Respond
 

@@ -1,7 +1,7 @@
 # 👁️ Vision Path – Step 4: Timeline Threads
 
 > “There are many futures. Which one are you feeding?”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,7 +28,7 @@
 ### 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this to your AI.d? This helps it track timeline decisions and consequences—so it can help guide you toward your chosen path.”
-> 
+>
 
 🔘 Log this to AI.d
 

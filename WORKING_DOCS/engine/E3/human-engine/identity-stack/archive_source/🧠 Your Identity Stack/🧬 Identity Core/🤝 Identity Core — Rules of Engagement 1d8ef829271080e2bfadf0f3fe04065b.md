@@ -68,7 +68,7 @@ Use these categories to define your own:
 ## 🌀 Guidelines, Not Laws
 
 > These are not rules to punish you — they are mirrors to realign you.
-> 
+>
 
 If you break one, reflect.
 
@@ -81,7 +81,7 @@ This pillar is about **sovereignty through choice**, not rigidity.
 ## 🤖 AI.d Sync (Optional)
 
 > Over time, your reflections in this section may influence how NE3ULA recommends collaboration, feedback prompts, and interpersonal alignment check-ins.
-> 
+>
 
 🔘 Sync current protocol
 

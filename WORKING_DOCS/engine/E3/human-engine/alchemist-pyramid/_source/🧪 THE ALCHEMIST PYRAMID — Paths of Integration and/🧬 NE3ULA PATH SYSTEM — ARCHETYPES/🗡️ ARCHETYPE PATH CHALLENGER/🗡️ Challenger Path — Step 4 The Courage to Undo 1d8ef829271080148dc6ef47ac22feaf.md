@@ -1,21 +1,21 @@
 # 🗡️ Challenger Path — Step 4: The Courage to Undo
 
 > “Sometimes the bravest thing you can do is walk away from what once saved you.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Becoming more is not always about adding.
-> 
-> 
+>
+>
 > Sometimes it’s about *unbuilding*.
-> 
+>
 > Letting go of identities, systems, or beliefs that helped you survive — but now keep you small.
-> 
+>
 > **The Courage to Undo** asks: *What are you still carrying that you no longer need — simply because you once did?*
-> 
+>
 
 ---
 
@@ -50,10 +50,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 4 insight to your AI.d?
-> 
-> 
+>
+>
 > This prepares your system for intentional dismantling and self-redefinition.”
-> 
+>
 
 🔘 Log this to AI.d
 

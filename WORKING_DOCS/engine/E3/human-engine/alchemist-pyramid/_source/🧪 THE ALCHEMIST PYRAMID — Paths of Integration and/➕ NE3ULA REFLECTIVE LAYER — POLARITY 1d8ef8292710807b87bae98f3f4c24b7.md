@@ -3,7 +3,7 @@
 *The Final Mirror*
 
 > “You cannot transcend what you haven’t first held.”
-> 
+>
 
 ---
 
@@ -69,10 +69,10 @@ Rest is:
 - Delaying conclusion long enough for clarity to arise
 
 > In this layer, rest is not escape.
-> 
-> 
+>
+>
 > It’s *space* — the space where truth has room to echo.
-> 
+>
 
 ---
 
@@ -144,10 +144,10 @@ AI.d may mirror a split here, inviting you to notice patterns that no longer ser
 This is the final mirror before The Alchemist.
 
 > Can you hold the tension
-> 
-> 
+>
+>
 > — without trying to resolve it?
-> 
+>
 
 ---
 
@@ -161,10 +161,10 @@ This is the final mirror before The Alchemist.
 ---
 
 > This is not where you choose right or wrong.
-> 
-> 
+>
+>
 > This is where you become large enough to hold both.
-> 
+>
 
 ➕
 

@@ -1,7 +1,7 @@
 # 🕳️ Shadow Path – Step 2: The Root of the Shadow
 
 > “All pain has a seed. Find it—and the story begins to shift.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,7 +28,7 @@
 ### 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this to your AI.d? This step helps your AI.d understand the origins of your protective instincts and gently disarm outdated defense mechanisms.”
-> 
+>
 
 🔘 Log this to AI.d
 

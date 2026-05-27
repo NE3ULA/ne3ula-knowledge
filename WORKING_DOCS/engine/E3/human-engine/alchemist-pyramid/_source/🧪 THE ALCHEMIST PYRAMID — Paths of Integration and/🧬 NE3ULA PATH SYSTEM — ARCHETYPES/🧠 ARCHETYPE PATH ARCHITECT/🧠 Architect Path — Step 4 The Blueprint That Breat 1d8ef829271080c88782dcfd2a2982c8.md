@@ -1,19 +1,19 @@
 # 🧠 Architect Path — Step 4: The Blueprint That Breathes
 
 > “A system is sacred only if it can evolve with the soul it serves.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Not all blueprints are prisons — but many become them.
-> 
-> 
+>
+>
 > A true Architect learns when to follow the plan, and when to *listen deeper*.
-> 
+>
 > **The Blueprint That Breathes** reminds you: structure should *support* life, not replace it.
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 4 insight to your AI.d?
-> 
-> 
+>
+>
 > This updates your structural model with flexibility and soul-alignment protocols.”
-> 
+>
 
 🔘 Log this to AI.d
 

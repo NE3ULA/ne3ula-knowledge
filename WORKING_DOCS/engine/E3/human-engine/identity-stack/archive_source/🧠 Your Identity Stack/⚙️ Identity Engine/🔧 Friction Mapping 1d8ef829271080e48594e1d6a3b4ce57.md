@@ -72,10 +72,10 @@ Now ask:
 ## 🧠 Friction Isn’t Bad
 
 > "Alignment doesn’t mean ease.
-> 
-> 
+>
+>
 > It means clarity."
-> 
+>
 
 Some friction is creative tension — it's the pressure that shapes you.
 
@@ -88,7 +88,7 @@ Some is destructive — it’s the noise drowning your signal.
 ## 🔁 Optional AI.d Sync
 
 > AI.d can learn your friction patterns over time and:
-> 
+>
 > - Suggest when your system needs rest, realignment, or ritual
 > - Detect recurring themes across projects, relationships, or routines
 > - Help you distinguish growth-edge from misalignment

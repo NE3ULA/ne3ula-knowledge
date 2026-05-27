@@ -1,7 +1,7 @@
 # 🌐 Frequency Path – Step 5: The Signature Signal
 
 > “You don’t find your frequency. You choose it—and tune to it.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,7 +28,7 @@
 ### 🧠 AI.d Sync (Final Step in Path)
 
 > “Would you like to log this final step to your AI.d? This completes your Frequency Path and allows your AI.d to reinforce your emotional sovereignty.”
-> 
+>
 
 🔘 Log this to AI.d
 
@@ -39,7 +39,7 @@
 ## 🧭 You’ve Completed the Frequency Path
 
 > You are no longer tuning to the world—you are tuning the world to you.
-> 
+>
 
 ### 🔗 Choose Your Next Path
 

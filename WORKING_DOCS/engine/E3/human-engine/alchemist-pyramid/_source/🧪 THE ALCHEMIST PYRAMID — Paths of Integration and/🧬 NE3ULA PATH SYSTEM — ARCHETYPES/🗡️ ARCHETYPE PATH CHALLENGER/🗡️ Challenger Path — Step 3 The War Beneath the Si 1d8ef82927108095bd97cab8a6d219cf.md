@@ -1,19 +1,19 @@
 # 🗡️ Challenger Path — Step 3: The War Beneath the Silence
 
 > “The loudest battles are often the ones no one hears.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Beneath your stillness, a thousand voices may be fighting.
-> 
-> 
+>
+>
 > Old versions of you. Future selves trying to emerge. Inner critics disguised as protectors.
-> 
+>
 > **The War Beneath the Silence** reveals that true challenge isn’t a fight with the world — it’s the reckoning *within*.
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 3 insight to your AI.d?
-> 
-> 
+>
+>
 > This helps identify internal conflict patterns and map out dissonance for integration.”
-> 
+>
 
 🔘 Log this to AI.d
 

@@ -1,13 +1,13 @@
 # 🌟 MODE PATH: PLEASURE — The Power of Presence
 
 > “What if joy wasn’t the goal... but the guide?”
-> 
+>
 
 ---
 
 ### **Essence**:
 
-**Joy** · **Rest** · Sensation · Resonance · Desire · Embodiment 
+**Joy** · **Rest** · Sensation · Resonance · Desire · Embodiment
 
 ---
 
@@ -58,17 +58,17 @@ Rest in Pleasure Mode shows up as:
 - **Recovery of joy** — after pain, pressure, or burnout
 
 > Rest is not what you do when you’re done.
-> 
-> 
+>
+>
 > It’s what returns you to who you are.
-> 
+>
 
 ---
 
 ### 🔄 **Transitional Indicators**
 
 > How do you know it’s time to shift — or recalibrate — within Pleasure Mode?
-> 
+>
 - You feel overstimulated or emotionally flooded — not by joy, but by overexposure
 - You're chasing stimulation rather than feeling alignment
 - You’re overriding the body instead of listening to it
@@ -166,11 +166,11 @@ You may flow toward:
 ---
 
 > 🌟 Pleasure is not a reward. It is a revealer.
-> 
-> 
+>
+>
 > It tells you what’s alive, what’s true, and where the signal is loudest.
-> 
+>
 > Learn to feel — and you’ll learn to align.
-> 
+>
 
 [🫱 MODE PATH: PEOPLE — *The Mirror of Belonging*](%F0%9F%AB%B1%20MODE%20PATH%20PEOPLE%20%E2%80%94%20The%20Mirror%20of%20Belonging%201d8ef829271080a699f5c427f3b50422.md)

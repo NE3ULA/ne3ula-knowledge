@@ -28,10 +28,10 @@ The Engine isn’t here to judge you — it’s here to show you:
 - Where you might need to shift your tools, time, or focus
 
 > It’s not about control.
-> 
-> 
+>
+>
 > It’s about **conscious calibration**.
-> 
+>
 
 ---
 
@@ -84,10 +84,10 @@ You just need to **listen for signal vs. static.**
 ## 💬 Closing Note
 
 > "The Engine doesn’t run on hustle.
-> 
-> 
+>
+>
 > It runs on honesty."
-> 
+>
 
 Build the system that honors the self you've already chosen.
 

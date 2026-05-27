@@ -4,7 +4,7 @@ This directory contains a **1:1 preservation copy** of the original Alchemist Py
 
 Purpose
 -------
-The Alchemist Pyramid is a highly structured framework representing the human transformation system within NE3ULA.  
+The Alchemist Pyramid is a highly structured framework representing the human transformation system within NE3ULA.
 Because the archive already contains significant structure and path logic, the content is preserved here to ensure that no conceptual detail is lost during the migration process.
 
 The canonical implementation of the pyramid lives in:

@@ -1,19 +1,19 @@
 # 🏗️ Builder Path — Step 5: The Sacred Repetition
 
 > “What you do consistently becomes what you are — and what you leave behind.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Greatness is not found in single moments — but in sacred repetition.
-> 
-> 
+>
+>
 > The Builder does not chase novelty. They anchor meaning through rhythm.
-> 
+>
 > **The Sacred Repetition** is not about perfection — it is about showing up with presence again, and again, and again.
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 5 insight to your AI.d?
-> 
-> 
+>
+>
 > This concludes your Builder Initiation and calibrates your rhythm map.”
-> 
+>
 
 🔘 Log this to AI.d
 

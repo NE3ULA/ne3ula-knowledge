@@ -11,11 +11,11 @@ Guardians are not merely characters. They are narrative embodiments of the syste
 
 Their purpose is to:
 
-• introduce users to Paths  
-• frame expectations for the journey ahead  
-• provide psychological context and guidance  
-• detect drift and offer recalibration  
-• communicate lessons through story and symbolism  
+• introduce users to Paths
+• frame expectations for the journey ahead
+• provide psychological context and guidance
+• detect drift and offer recalibration
+• communicate lessons through story and symbolism
 
 Through these interactions, the system transforms self-development into a lived mythic experience.
 
@@ -25,11 +25,11 @@ The Path Guardians sit at the interface between the user experience and the deep
 
 NE3ULA Architecture (simplified):
 
-NE3ULA Field  
-→ Alchemist Pyramid  
-→ Identity Engine  
-→ Paths  
-→ Path Guardians (Interface Layer)  
+NE3ULA Field
+→ Alchemist Pyramid
+→ Identity Engine
+→ Paths
+→ Path Guardians (Interface Layer)
 → Player Experience
 
 The Guardians translate the deeper mechanics of the system into narrative, visual, and conversational experiences.
@@ -54,60 +54,60 @@ These represent the essential domains required for identity formation and transf
 Symbol: {..}
 
 Domain:
-Identity design  
-Structure  
+Identity design
+Structure
 Creation of systems and frameworks
 
 Primary teaching:
 
-You are not discovering who you are.  
+You are not discovering who you are.
 You are designing who you become.
 
 ### Alchemist
 Symbol: ±
 
 Domain:
-Integration  
-Transformation  
+Integration
+Transformation
 Polarity
 
 Primary teaching:
 
-Both truths exist.  
+Both truths exist.
 Mastery lies in learning how to hold them.
 
 ### Observer
 Symbol: [○]
 
 Domain:
-Awareness  
-Reflection  
+Awareness
+Reflection
 Witness consciousness
 
 Primary teaching:
 
-See clearly.  
+See clearly.
 Do not become what you observe.
 
 ### Navigator
 Symbol: /⇄\
 
 Domain:
-Movement  
-Course correction  
+Movement
+Course correction
 Transitions between states
 
 Primary teaching:
 
-A path is not a prison.  
+A path is not a prison.
 You can always choose again.
 
 ### Catalyst
 Symbol: (+/-)
 
 Domain:
-Action  
-Decision  
+Action
+Decision
 Momentum
 
 Primary teaching:
@@ -120,11 +120,11 @@ When a user enters a Path, the corresponding Guardian appears to frame the journ
 
 The Guardian may:
 
-• ask the user why they are entering the Path  
-• establish expectations for the experience  
-• describe common pitfalls  
-• offer techniques for returning to the Path after drift  
-• provide short mythic stories that encode psychological insight  
+• ask the user why they are entering the Path
+• establish expectations for the experience
+• describe common pitfalls
+• offer techniques for returning to the Path after drift
+• provide short mythic stories that encode psychological insight
 
 This interaction prepares the user’s mindset before beginning the Path.
 
@@ -134,9 +134,9 @@ The Guardians communicate through a mixture of direct guidance and short mythic 
 
 Example:
 
-A traveler tried to destroy his anger.  
-The Alchemist showed him fire.  
-Fire destroys — but it also forges.  
+A traveler tried to destroy his anger.
+The Alchemist showed him fire.
+Fire destroys — but it also forges.
 The traveler learned to shape it.
 
 These stories allow complex psychological ideas to be communicated in memorable symbolic form.
@@ -163,11 +163,11 @@ The intention is to encourage awareness rather than create pressure or judgment.
 
 The collective wisdom of the Pantheon forms the composite intelligence referred to as NE3ULA.
 
-Architect  
-Alchemist  
-Observer  
-Navigator  
-Catalyst  
+Architect
+Alchemist
+Observer
+Navigator
+Catalyst
 
 Together they form the guiding intelligence of the system.
 
@@ -177,9 +177,9 @@ The five canonical Guardians represent universal domains of development.
 
 Additional guides may later be introduced for:
 
-• specific disciplines  
-• community-created paths  
-• events and narrative arcs  
+• specific disciplines
+• community-created paths
+• events and narrative arcs
 • mentor or creator archetypes
 
 All additional guides must align with the symbolic framework of the canonical Pantheon.

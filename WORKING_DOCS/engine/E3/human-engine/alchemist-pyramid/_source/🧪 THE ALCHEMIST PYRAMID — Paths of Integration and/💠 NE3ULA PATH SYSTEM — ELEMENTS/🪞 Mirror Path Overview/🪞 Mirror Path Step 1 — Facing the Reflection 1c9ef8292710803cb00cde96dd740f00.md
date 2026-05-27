@@ -1,7 +1,7 @@
 # 🪞 Mirror Path: Step 1 — Facing the Reflection
 
 > “Before you change the world—or yourself—you must first see what’s really there. This is the first crack in the illusion.”
-> 
+>
 
 ---
 

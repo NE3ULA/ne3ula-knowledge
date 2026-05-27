@@ -1,7 +1,7 @@
 # 👁️ Vision Path – Step 3: Designing the Signal
 
 > “Your future self can’t find you if you’re not broadcasting.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,7 +28,7 @@
 ### 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this to your AI.d? This will help it reinforce the habits and signals that keep you aligned with your chosen future.”
-> 
+>
 
 🔘 Log this to AI.d
 

@@ -19,7 +19,7 @@ This is where you define how you operate, create, engage, and evolve — on your
 ### 1. 🧬 **Identity Core**
 
 > Your authored center — a 4-part framework for inner clarity and outer alignment.
-> 
+>
 - a. **Get Your Money Right** — Financial sovereignty & energetic grounding
 - b. **Rules of Engagement** — How you choose to interact with the world
 - c. **Build What You Wish the World Had** — Creative contribution & conscious action
@@ -32,7 +32,7 @@ This is where you define how you operate, create, engage, and evolve — on your
 ### 2. ⚙️ **Identity Engine**
 
 > The layer that puts your Core into motion — how you design systems, routines, relationships, and rituals around your values.
-> 
+>
 - Tracks how your core principles show up in daily behavior
 - Highlights your current mode (People, Pleasure, or Production)
 - Allows frictionless integration between self-awareness and self-actualization
@@ -44,7 +44,7 @@ This is where you define how you operate, create, engage, and evolve — on your
 ### 3. 🤖 **AI.d (Adaptive Intelligence Driver)**
 
 > Your responsive mirror. A semi-autonomous layer that learns from your choices, feedback loops, and evolving signal.
-> 
+>
 - Reflects how aligned you are with your Identity Core
 - Offers prompts, suggestions, recalibrations
 - Can be paused, reset, or trained further at any time
@@ -57,10 +57,10 @@ This is where you define how you operate, create, engage, and evolve — on your
 ## 🛠 Why This Stack Matters
 
 > “The world is not asking you to be perfect.
-> 
-> 
+>
+>
 > It’s asking you to be *authentic*, *intentional*, and *in motion*.”
-> 
+>
 
 The Identity Stack gives you a foundation you can return to.
 

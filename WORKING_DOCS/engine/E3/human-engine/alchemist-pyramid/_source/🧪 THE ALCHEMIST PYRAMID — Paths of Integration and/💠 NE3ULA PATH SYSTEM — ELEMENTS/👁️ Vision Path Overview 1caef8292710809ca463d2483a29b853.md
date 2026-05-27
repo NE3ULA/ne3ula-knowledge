@@ -3,7 +3,7 @@
 **You cannot walk a path you haven’t seen first.**
 
 > “Vision is not just what you want. It’s what you are willing to imagine into existence.”
-> 
+>
 
 ---
 
@@ -18,10 +18,10 @@ It reveals your future self, your destination, and the patterns calling you forw
 It is the space between clarity and becoming—the light on the horizon that begins within.
 
 > You’ve met your shadow. You’ve activated your will.
-> 
+>
 
 > Now, it’s time to decide where you’re going.
-> 
+>
 
 ---
 

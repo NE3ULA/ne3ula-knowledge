@@ -7,12 +7,12 @@
 ---
 
 > This section is designed to evolve with you.
-> 
-> 
+>
+>
 > Over time, your reflections from the NE3ULA paths may auto-populate suggested prompts here, powered by AI.d.
-> 
+>
 > You can accept, edit, or reject these — you are the author.
-> 
+>
 
 ---
 
@@ -71,12 +71,12 @@
 🧠 AI.d Sync (Passive)
 
 > Reflections here may be enhanced by suggestions from your path data and Archetype responses.
-> 
-> 
+>
+>
 > You may be prompted to confirm or revise these inputs as part of your alignment sync.
-> 
+>
 > Nothing here is ever permanent — but clarity comes with participation.
-> 
+>
 
 🔘 Accept Suggested Inputs
 

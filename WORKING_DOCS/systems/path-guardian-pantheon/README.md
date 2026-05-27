@@ -14,24 +14,24 @@ The Pantheon sits between Paths and Interface.
 
 High-level flow:
 
-NE3ULA Field  
-→ World  
-→ Alchemist Pyramid  
-→ Identity Engine  
-→ Paths  
-→ Path Guardian Pantheon  
-→ Interface  
+NE3ULA Field
+→ World
+→ Alchemist Pyramid
+→ Identity Engine
+→ Paths
+→ Path Guardian Pantheon
+→ Interface
 → Player Experience
 
 ## Core Components
 
-- `pantheon-overview.md`  
+- `pantheon-overview.md`
   Defines the role and purpose of the Pantheon in the NE3ULA system.
 
-- `guardian-face-system.md`  
+- `guardian-face-system.md`
   Defines the symbolic grammar used to construct Guardian identities.
 
-- `guardians/`  
+- `guardians/`
   Contains canonical Guardian definitions:
   - Architect
   - Alchemist

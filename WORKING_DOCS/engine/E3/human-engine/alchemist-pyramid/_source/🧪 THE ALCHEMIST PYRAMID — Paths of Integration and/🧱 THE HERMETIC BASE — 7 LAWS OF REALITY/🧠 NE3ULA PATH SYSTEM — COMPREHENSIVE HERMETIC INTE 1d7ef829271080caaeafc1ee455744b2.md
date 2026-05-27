@@ -15,7 +15,7 @@ Each Hermetic Principle is a foundational truth, and this guide reveals how that
 ## 🌌 1. MENTALISM — *“All is Mind”*
 
 > Consciousness is the fundamental substance of reality. Everything is a projection of Mind.
-> 
+>
 
 **Archetypes**
 
@@ -47,7 +47,7 @@ Each Hermetic Principle is a foundational truth, and this guide reveals how that
 ## 🌐 2. CORRESPONDENCE — *“As above, so below”*
 
 > The micro reflects the macro. Inner state mirrors outer reality.
-> 
+>
 
 **Archetypes**
 
@@ -79,7 +79,7 @@ Each Hermetic Principle is a foundational truth, and this guide reveals how that
 ## 🔊 3. VIBRATION — *“Nothing rests; everything moves”*
 
 > All things vibrate. Frequency defines form.
-> 
+>
 
 **Archetypes**
 
@@ -111,7 +111,7 @@ Each Hermetic Principle is a foundational truth, and this guide reveals how that
 ## ☯️ 4. POLARITY — *“Everything is dual”*
 
 > Opposites are two sides of the same truth.
-> 
+>
 
 **Archetypes**
 
@@ -143,7 +143,7 @@ Each Hermetic Principle is a foundational truth, and this guide reveals how that
 ## 🌊 5. RHYTHM — *“Everything flows”*
 
 > Tides, cycles, spirals. Everything returns.
-> 
+>
 
 **Archetypes**
 
@@ -175,7 +175,7 @@ Each Hermetic Principle is a foundational truth, and this guide reveals how that
 ## 🔗 6. CAUSE & EFFECT — *“Every effect has a cause”*
 
 > There are no accidents. Everything follows law.
-> 
+>
 
 **Archetypes**
 
@@ -207,7 +207,7 @@ Each Hermetic Principle is a foundational truth, and this guide reveals how that
 ## ⚧️ 7. GENDER — *“Everything has masculine and feminine principles”*
 
 > Union gives birth to creation.
-> 
+>
 
 **Archetypes**
 
@@ -237,11 +237,11 @@ Each Hermetic Principle is a foundational truth, and this guide reveals how that
 ---
 
 > This integration is a map and a mirror.
-> 
-> 
+>
+>
 > The Hermetic path is not linear — it is holographic.
-> 
+>
 > 🧪 **Alchemist = Awareness + Application + Alignment**
-> 
+>
 
 [🧱 THE HERMETIC BASE — 7 LAWS OF REALITY](../%F0%9F%A7%B1%20THE%20HERMETIC%20BASE%20%E2%80%94%207%20LAWS%20OF%20REALITY%201d8ef829271080fca1a1e121d4ce5ea4.md)

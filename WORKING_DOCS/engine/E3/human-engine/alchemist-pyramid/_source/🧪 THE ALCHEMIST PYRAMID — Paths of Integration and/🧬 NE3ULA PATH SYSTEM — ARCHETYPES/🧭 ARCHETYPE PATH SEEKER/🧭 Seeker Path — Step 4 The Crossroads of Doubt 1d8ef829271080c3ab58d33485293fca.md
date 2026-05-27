@@ -1,19 +1,19 @@
 # 🧭 Seeker Path — Step 4: The Crossroads of Doubt
 
 > “Every true path demands you question it before you can walk it fully.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Doubt is not the enemy — it is the guardian of transformation.
-> 
-> 
+>
+>
 > It asks: *Are you ready? Are you willing?*
-> 
+>
 > **The Crossroads of Doubt** is where old fears and new visions collide — and you must choose which voice to follow.
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 4 insight to your AI.d?
-> 
-> 
+>
+>
 > This helps strengthen your resilience matrix for future thresholds.”
-> 
+>
 
 🔘 Log this to AI.d
 

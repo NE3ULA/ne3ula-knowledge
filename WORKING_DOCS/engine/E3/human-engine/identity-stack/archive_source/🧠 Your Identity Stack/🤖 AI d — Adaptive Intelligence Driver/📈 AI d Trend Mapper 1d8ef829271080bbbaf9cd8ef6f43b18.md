@@ -66,7 +66,7 @@ Use this to spot:
 ## 🧬 Pattern Highlights
 
 > "Your growth is hidden in your rhythm."
-> 
+>
 - You stabilize most after **creative expression rituals**
 - Drift tends to occur in **Week 3 of focused sprints**
 - Recovery happens fastest when Pleasure Mode is **intentional, not reactive**
@@ -98,10 +98,10 @@ Use this to spot:
 ## 🌀 Remember
 
 > This isn’t about being perfectly balanced.
-> 
-> 
+>
+>
 > It’s about knowing your rhythm — so you can return to it when you forget.
-> 
+>
 
 The Trend Mapper is your evolving fingerprint — not a scorecard.
 

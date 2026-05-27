@@ -1,7 +1,7 @@
 # 🕳️ Shadow Path – Step 5: The Shadow Ally
 
 > “When the shadow is no longer an enemy, it becomes your fiercest protector.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,7 +28,7 @@
 ### 🧠 AI.d Sync (Final Step in Path)
 
 > “Would you like to log this final step to your AI.d? This will complete your Shadow Path and allow your AI.d to support you with deeper empathy, authenticity, and strength.”
-> 
+>
 
 🔘 Log this to AI.d
 
@@ -39,7 +39,7 @@
 ## 🧭 You’ve Completed the Shadow Path
 
 > Integration is power. What was once a weight is now a weapon. You are no longer split. You are whole.
-> 
+>
 
 ### 🔗 Choose Your Next Path
 

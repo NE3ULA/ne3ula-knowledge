@@ -40,8 +40,8 @@ As the user completes Paths and engages with the system, subtle visual changes b
 
 Examples:
 
-• color shifts  
-• minor design changes  
+• color shifts
+• minor design changes
 • slight visual resemblance to the user
 
 These changes indicate alignment with the system but are not explained explicitly.

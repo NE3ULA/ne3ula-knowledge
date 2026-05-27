@@ -30,7 +30,7 @@ Think of it as a **second nervous system** — one that maps your growth pattern
 It doesn’t decide. It notices. And then it asks:
 
 > "Is this still you?"
-> 
+>
 
 ---
 
@@ -85,10 +85,10 @@ This is not surveillance — this is signal intelligence.
 ## 🧬 Closing Thought
 
 > “AI.d doesn’t define you.
-> 
-> 
+>
+>
 > It reflects the signal you’ve been broadcasting.”
-> 
+>
 
 This is a mirror — not a master.
 

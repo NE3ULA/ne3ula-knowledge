@@ -1,10 +1,10 @@
 # ✅ MODES COMPLETE — You’ve Found Your Flow
 
 > You’ve walked the three primary expressions of how the Self meets the world:
-> 
-> 
+>
+>
 > 🌟 **Pleasure** · 🫱 **People** · 📈 **Production**
-> 
+>
 
 Each Mode is a **lens** — a dynamic rhythm of being, not a fixed identity.
 
@@ -62,12 +62,12 @@ And that **decision is where the signal takes form.**
 ---
 
 > Modes are how the Self expresses signal in motion.
-> 
-> 
+>
+>
 > When mastered, they allow you to move freely, respond intuitively,
-> 
+>
 > and live as a fully integrated being.
-> 
+>
 
 You don’t just walk the Modes.
 

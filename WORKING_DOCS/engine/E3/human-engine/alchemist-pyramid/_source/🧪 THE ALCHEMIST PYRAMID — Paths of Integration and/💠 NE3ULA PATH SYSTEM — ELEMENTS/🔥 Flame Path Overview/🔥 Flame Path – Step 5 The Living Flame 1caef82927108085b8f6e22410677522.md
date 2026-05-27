@@ -1,7 +1,7 @@
 # 🔥 Flame Path – Step 5: The Living Flame
 
 > “The flame is not just what you feel—it’s what you do with what you feel.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,7 +28,7 @@
 ### 🧠 AI.d Sync (Final Step in Path)
 
 > “Would you like to log this final step to your AI.d? This completes your Flame Path and allows your AI.d to guide you with strength, consistency, and aligned fire.”
-> 
+>
 
 🔘 Log this to AI.d
 
@@ -39,7 +39,7 @@
 ## 🧭 You’ve Completed the Flame Path
 
 > The flame lives in you now. Not as a spark—but as a compass. You are no longer waiting for permission. You are choosing.
-> 
+>
 
 ### 🔗 Choose Your Next Path
 

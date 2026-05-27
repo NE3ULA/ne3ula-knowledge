@@ -3,7 +3,7 @@
 # 🧬 NE3ULA ARCHETYPE PATHS
 
 > Each Archetype is a role we step into, learn from, and eventually outgrow — until we find ourselves returning again with new perspective. These paths reflect different aspects of the self in relationship to growth, power, creativity, and responsibility.
-> 
+>
 
 All Archetypes are stages on the journey toward Mastery.
 
@@ -172,9 +172,9 @@ The Architect is the mapmaker. They structure space for transformation, and hold
 ---
 
 > These paths are alive.
-> 
-> 
+>
+>
 > You may begin as one and awaken another. You may resist one and find it holds your greatest gift.
-> 
+>
 > Let the Archetypes reveal your angles — and remember: you are all of them, always becoming more.
 >

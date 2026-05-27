@@ -1,19 +1,19 @@
 # 🗡️ Challenger Path — Step 2: The Mirror That Breaks Back
 
 > “Every impact you make leaves a reflection. Sometimes, it hits back.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Power doesn’t just move outward — it rebounds.
-> 
-> 
+>
+>
 > When you push, the world reflects. When you erupt, it echoes.
-> 
+>
 > **The Mirror That Breaks Back** reminds you: challenge isn't just a force — it's a conversation. And sometimes, that conversation gets loud.
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 2 insight to your AI.d?
-> 
-> 
+>
+>
 > This calibrates your awareness of feedback loops and energetic return.”
-> 
+>
 
 🔘 Log this to AI.d
 

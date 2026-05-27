@@ -68,14 +68,14 @@ When you're in **Pleasure Mode**, but shaming yourself for not producing — you
 When you're in **Production Mode**, but someone asks you for deep emotional processing — you misfire.
 
 > Mode awareness is self-respect in motion.
-> 
+>
 
 ---
 
 ## 🔍 Mode Check-In
 
 > Use this as a daily moment-to-moment awareness tool, or as a weekly system calibration.
-> 
+>
 
 ---
 
@@ -135,7 +135,7 @@ Ask yourself in the moment:
 ## 🧠 AI.d Sync (Optional)
 
 > When synced, AI.d can:
-> 
+>
 > - Track your micro/macro mode data for trend analysis
 > - Alert you to mode fatigue or imbalance
 > - Offer daily nudges, rhythm rituals, or recovery strategies

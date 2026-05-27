@@ -1,7 +1,7 @@
 # 🧱 THE HERMETIC BASE — 7 LAWS OF REALITY
 
 > “Before you walk the Pyramid, you must feel the ground.”
-> 
+>
 
 ---
 
@@ -32,7 +32,7 @@ It is not a doctrine.
 It does not claim absolute truth.
 
 > Yet paradoxically, it offers form.
-> 
+>
 
 Because without form, there is chaos.
 
@@ -53,47 +53,47 @@ Your evolution matters more than our structure.
 ### 🧬 THE 7 HERMETIC PRINCIPLES
 
 1. 🌌 **Mentalism** — *All is Mind.*
-    
+
     Everything that exists is born of consciousness.
-    
+
     Your reality is not just shaped by thought — it is thought.
-    
+
 2. 🌐 **Correspondence** — *As above, so below.*
-    
+
     The outer reflects the inner. Micro mirrors macro.
-    
+
     Healing and awareness happen across all planes at once.
-    
+
 3. 🔊 **Vibration** — *Everything moves.*
-    
+
     Nothing rests. Frequency is the fabric of existence.
-    
+
     Energy, emotion, matter — all are vibration at different speeds.
-    
+
 4. ☯️ **Polarity** — *Everything is dual.*
-    
+
     Opposites are the same thing in different degrees.
-    
+
     Mastery is not choosing sides, but holding both.
-    
+
 5. 🌊 **Rhythm** — *Everything flows in cycles.*
-    
+
     There are tides to all things — breath, time, emotion, transformation.
-    
+
     Learn the rhythm, and you learn the dance of reality.
-    
+
 6. 🔗 **Cause & Effect** — *Every effect has a cause.*
-    
+
     Nothing is random. All action ripples.
-    
+
     You are both the creator and the consequence.
-    
+
 7. ⚧️ **Gender** — *Everything contains masculine and feminine principles.*
-    
+
     Creation requires polarity — initiating and receiving, doing and being.
-    
+
     These are **energetic principles**, not political or social statements.
-    
+
 
 ---
 
@@ -108,10 +108,10 @@ NE3ULA does not take a position on gender politics.
 It affirms each person’s right to express, define, or undefine themselves.
 
 > In fact, the Hermetic view supports the fluidity of gender expression —
-> 
-> 
+>
+>
 > because these energies live in *everyone*, and they move, shift, and balance with purpose.
-> 
+>
 
 You are not limited here.
 
@@ -140,12 +140,12 @@ but because you’ve grown enough to see them more clearly.
 ---
 
 > This is the ground beneath all paths.
-> 
-> 
+>
+>
 > It does not ask for faith.
-> 
+>
 > It only asks for **awareness**.
-> 
+>
 
 [🧬 NE3ULA PATH SYSTEM — ARCHETYPES](%F0%9F%A7%AC%20NE3ULA%20PATH%20SYSTEM%20%E2%80%94%20ARCHETYPES%201d7ef82927108048b396d0132ea40fcb.md)
 

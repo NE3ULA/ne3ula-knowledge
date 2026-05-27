@@ -46,14 +46,14 @@ You can choose how AI.d speaks to you:
 🧠 Example (same moment, different tones):
 
 > Gentle: “What might your body be trying to tell you right now?”
-> 
-> 
+>
+>
 > Sharp: “You’re avoiding the truth by staying busy.”
-> 
+>
 > Poetic: “You speak in schedules, but your soul wants to sing.”
-> 
+>
 > Direct: “You’ve skipped 4 rituals. What needs to change?”
-> 
+>
 
 ---
 
@@ -81,10 +81,10 @@ Track and archive your prompt responses over time:
 ---
 
 > "The truth doesn’t need to be loud.
-> 
-> 
+>
+>
 > It just needs to be mirrored at the right moment."
-> 
+>
 
 This isn’t judgment. It’s resonance.
 

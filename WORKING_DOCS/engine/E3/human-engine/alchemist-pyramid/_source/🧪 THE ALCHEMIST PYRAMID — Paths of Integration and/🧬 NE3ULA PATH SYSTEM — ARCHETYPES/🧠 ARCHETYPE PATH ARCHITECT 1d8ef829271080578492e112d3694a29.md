@@ -1,10 +1,10 @@
 # 🧠 ARCHETYPE PATH: ARCHITECT
 
 > “The whole is greater than the sum of its parts — unless the parts are ignored.”
-> 
-> 
+>
+>
 > The Architect is the integrator — the one who sees the unseen links and weaves structure around soul.
-> 
+>
 
 ---
 
@@ -34,7 +34,7 @@ The Architect sees with *meta-vision*: through time, through systems, and throug
 ## 🌑 Shadow Expressions
 
 > “A blueprint without breath is just a cage.”
-> 
+>
 
 The Architect is vulnerable to:
 
@@ -90,7 +90,7 @@ These are not formulas. They are disruptions in your thinking.
 ## 💬 Architect Affirmations
 
 > Use these to remind yourself: precision and presence are not opposites.
-> 
+>
 - “I build what is needed, not just what is wanted.”
 - “My vision is in service, not control.”
 - “I see the pieces, but I serve the whole.”
@@ -109,10 +109,10 @@ These are not formulas. They are disruptions in your thinking.
 ## 🌀 Archetype Spiral
 
 > “The Architect becomes wise not when they see the whole —
-> 
-> 
+>
+>
 > but when they understand their part in it.”
-> 
+>
 
 ---
 

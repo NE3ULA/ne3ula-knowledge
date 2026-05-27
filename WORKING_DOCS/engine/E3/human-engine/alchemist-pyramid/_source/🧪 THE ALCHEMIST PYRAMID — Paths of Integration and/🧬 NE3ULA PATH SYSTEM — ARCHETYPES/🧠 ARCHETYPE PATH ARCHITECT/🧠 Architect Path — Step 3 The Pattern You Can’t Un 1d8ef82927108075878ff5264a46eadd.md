@@ -1,19 +1,19 @@
 # 🧠 Architect Path — Step 3: The Pattern You Can’t Unsee
 
 > “Once you see the pattern, you can’t go back to pretending it’s random.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Systems aren’t just in buildings. They’re in thoughts. Relationships. Beliefs.
-> 
-> 
+>
+>
 > They show up in your routines, your reactions, your resistance.
-> 
+>
 > **The Pattern You Can’t Unsee** is the moment the Architect awakens — not to build something new, but to *see what has always been there*.
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 3 insight to your AI.d?
-> 
-> 
+>
+>
 > This flags internal systems for revision and increases systemic awareness.”
-> 
+>
 
 🔘 Log this to AI.d
 

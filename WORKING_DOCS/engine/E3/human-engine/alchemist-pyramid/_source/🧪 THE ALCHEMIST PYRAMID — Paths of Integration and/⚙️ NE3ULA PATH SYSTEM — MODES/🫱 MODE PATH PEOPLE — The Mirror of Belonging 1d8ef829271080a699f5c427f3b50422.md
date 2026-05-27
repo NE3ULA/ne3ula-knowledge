@@ -1,13 +1,13 @@
 # 🫱 MODE PATH: PEOPLE — The Mirror of Belonging
 
 > “The other is not other. They are the part of you you’ve forgotten how to love.”
-> 
+>
 
 ---
 
 ### **Essence**:
 
-**Relationship** · **Social Balance** · Reflection · Belonging · Projection 
+**Relationship** · **Social Balance** · Reflection · Belonging · Projection
 
 ---
 
@@ -50,17 +50,17 @@ Rest here looks like:
 - **Recovery from Overidentification** — Releasing roles and expectations that distort self-perception
 
 > In People Mode, rest is not absence — it’s alignment.
-> 
-> 
+>
+>
 > You’re not walking away from others. You’re walking **back to yourself**.
-> 
+>
 
 ---
 
 ### 🔄 **Transitional Indicators**
 
 > How do you know it’s time to shift out of People Mode?
-> 
+>
 - You feel **emotionally overstimulated or entangled**
 - Your sense of identity feels blurred or scattered
 - You’re adjusting your truth to match the room
@@ -157,13 +157,13 @@ This may signal a shift toward:
 ---
 
 > 🫱 The other is never just other.
-> 
-> 
+>
+>
 > In this Mode, you don’t just meet people — you meet **portals**.
-> 
+>
 > Each one holds a key to your identity.
-> 
+>
 > The question is: will you take it?
-> 
+>
 
 [📈 MODE PATH: PRODUCTION — *The Force of Creation*](%F0%9F%93%88%20MODE%20PATH%20PRODUCTION%20%E2%80%94%20The%20Force%20of%20Creation%201d8ef8292710800c986eddad7ac22c43.md)

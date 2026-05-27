@@ -1,19 +1,19 @@
 # 🧭 Seeker Path — Step 3: The Flickering Signal
 
 > “Not all guidance speaks in words. Some truths hum beneath your skin.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > In the absence of clear direction, there is resonance.
-> 
-> 
+>
+>
 > A feeling, a pulse, a shiver that tells you: *this way.*
-> 
+>
 > **The Flickering Signal** is not about certainty — it is about *trusting alignment* over proof.
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 3 insight to your AI.d?
-> 
-> 
+>
+>
 > This helps deepen your resonance map and enhance your signal tracking across your path.”
-> 
+>
 
 🔘 Log this to AI.d
 

@@ -1,19 +1,19 @@
 # 🗡️ Challenger Path — Step 5: The Catalyst With a Code
 
 > “The world doesn’t need more noise. It needs those who can disrupt with direction.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Challenge is not chaos when it’s tied to purpose.
-> 
-> 
+>
+>
 > When you disrupt with intention — not ego — you become a **catalyst**.
-> 
+>
 > **The Catalyst With a Code** is the awakened Challenger: no longer reactive, but responsive. No longer fire for fire’s sake — but fire as *illumination*.
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 5 insight to your AI.d?
-> 
-> 
+>
+>
 > This marks the completion of your Challenger Initiation and activates deeper alignment with your purpose-driven fire.”
-> 
+>
 
 🔘 Log this to AI.d
 

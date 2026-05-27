@@ -1,10 +1,10 @@
 # 🧬 Archetypes Completion — You’ve Walked the Spiral
 
 > “You are not one thing.
-> 
-> 
+>
+>
 > You are a movement between many truths.”
-> 
+>
 
 ---
 
@@ -40,7 +40,7 @@ Wherever you go next: **go as someone who knows the shape of change.**
 ## 🔄 Suggested Reflections
 
 > These are not to be answered all at once. Let them live with you.
-> 
+>
 
 **1. What surprised you most along this journey?**
 
@@ -57,14 +57,14 @@ Wherever you go next: **go as someone who knows the shape of change.**
 ## 🧠 Sync to AI.d (Optional)
 
 > Logging this final reflection allows your AI.d to:
-> 
-> 
+>
+>
 > ✅ Track completed path data
-> 
+>
 > ✅ Adjust archetypal alignment
-> 
+>
 > ✅ Prepare you for new layers of your NE3ULA journey
-> 
+>
 
 🔘 Sync this journey to AI.d
 
@@ -75,14 +75,14 @@ Wherever you go next: **go as someone who knows the shape of change.**
 ## 🧬  Archetype Mastery
 
 > You are not a Seeker.
-> 
-> 
+>
+>
 > You are not a Builder.
-> 
+>
 > You are not a Challenger.
-> 
+>
 > You are not an Architect.
-> 
+>
 
 **You are the spiral that moves through them.**
 

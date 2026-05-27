@@ -1,21 +1,21 @@
 # 🗡️ Challenger Path — Step 1: The Shattering Thought
 
 > “Be careful with new truths — they rarely knock. They break the window and climb in.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Sometimes a single moment, sentence, or realization disrupts everything.
-> 
-> 
+>
+>
 > You try to hold onto what was — but it won’t fit anymore.
-> 
+>
 > **The Shattering Thought** isn’t just a new idea — it’s a fracture in your story.
-> 
+>
 > What you do next determines whether it becomes a wound… or a doorway.
-> 
+>
 
 ---
 
@@ -50,10 +50,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 1 insight to your AI.d?
-> 
-> 
+>
+>
 > This activates your Challenger lens and begins tracking identity disruptions.”
-> 
+>
 
 🔘 Log this to AI.d
 

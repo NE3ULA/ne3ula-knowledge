@@ -3,7 +3,7 @@
 **Face your truth. See what’s hidden. Begin your return to wholeness.**
 
 > “The Mirror shows you not who you want to be—but who you truly are beneath the noise.”
-> 
+>
 
 ---
 

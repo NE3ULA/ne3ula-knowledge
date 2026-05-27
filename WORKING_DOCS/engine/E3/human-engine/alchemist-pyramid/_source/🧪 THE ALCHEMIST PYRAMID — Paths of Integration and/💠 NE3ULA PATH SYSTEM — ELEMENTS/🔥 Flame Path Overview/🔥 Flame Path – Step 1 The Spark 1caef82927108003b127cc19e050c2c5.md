@@ -1,7 +1,7 @@
 # 🔥 Flame Path – Step 1: The Spark
 
 > “The flame begins not as a roar—but as a whisper that dares to rise.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,12 +28,12 @@
 ### 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this to your AI.d? This helps it recognize the spark moments that matter most to you—and encourage future momentum.”
-> 
+>
 
 🔘 Log this to AI.d
 
 🔘 Stay silent for now
 
-👉 [🔥 Flame Path – Step 2: *Resistance and Fire*](%F0%9F%94%A5%20Flame%20Path%20%E2%80%93%20Step%202%20Resistance%20and%20Fire%201caef829271080b3b126c1d58ebaf82b.md) 
+👉 [🔥 Flame Path – Step 2: *Resistance and Fire*](%F0%9F%94%A5%20Flame%20Path%20%E2%80%93%20Step%202%20Resistance%20and%20Fire%201caef829271080b3b126c1d58ebaf82b.md)
 
 ---

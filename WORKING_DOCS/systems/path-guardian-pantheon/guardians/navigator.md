@@ -3,8 +3,8 @@ Symbol: /⇄\
 
 ## Domain
 
-Movement  
-Course correction  
+Movement
+Course correction
 Transitions between states
 
 ## Function
@@ -15,9 +15,9 @@ It helps users recognize drift and choose new directions.
 
 The Navigator supports users in:
 
-• transitioning between states of focus  
-• recognizing when a path is no longer aligned  
-• correcting course after distraction  
+• transitioning between states of focus
+• recognizing when a path is no longer aligned
+• correcting course after distraction
 • maintaining momentum without rigidity
 
 ## Path Interaction
@@ -26,11 +26,11 @@ The Navigator frames each path as a temporary journey rather than a fixed identi
 
 Typical prompts may include:
 
-Where are you trying to go?  
-What signals tell you when you are drifting?  
+Where are you trying to go?
+What signals tell you when you are drifting?
 What is the next step forward?
 
 ## Primary Teaching
 
-A path is not a prison.  
+A path is not a prison.
 You can always choose again.

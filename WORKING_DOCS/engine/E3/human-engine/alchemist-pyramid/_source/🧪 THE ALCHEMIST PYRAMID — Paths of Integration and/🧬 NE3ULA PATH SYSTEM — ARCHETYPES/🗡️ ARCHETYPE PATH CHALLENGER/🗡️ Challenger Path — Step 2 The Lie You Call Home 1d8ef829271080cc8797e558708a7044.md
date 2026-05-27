@@ -1,19 +1,19 @@
 # 🗡️ Challenger Path — Step 2: The Lie You Call Home
 
 > “Not all prisons have bars. Some are made of stories you keep telling yourself.”
-> 
+>
 
 ---
 
 **🔄 RING Reflections**
 
 > Some beliefs don’t feel like lies — because they’ve been with you so long, they feel like you.
-> 
-> 
+>
+>
 > But identity isn’t truth. It’s often armor, stitched from what you were told, rewarded for, or learned to survive.
-> 
+>
 > **The Lie You Call Home** asks: *What parts of you were built to protect you… but no longer belong to you?*
-> 
+>
 
 ---
 
@@ -48,10 +48,10 @@
 ## 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this Step 2 insight to your AI.d?
-> 
-> 
+>
+>
 > This begins clearing inherited scripts and aligning your internal operating system.”
-> 
+>
 
 🔘 Log this to AI.d
 

@@ -3,7 +3,7 @@
 ## *Your energy is your language.*
 
 > “Frequency is the invisible field that shapes your visible life.”
-> 
+>
 
 ---
 
@@ -16,10 +16,10 @@ The **Frequency Path** is about **resonance, alignment, and emotional truth**
 Your energy introduces you before your words do. This path helps you calibrate it consciously.
 
 > This is not about pretending to be high-vibe.
-> 
-> 
+>
+>
 > It’s about becoming energetically honest.
-> 
+>
 
 ---
 

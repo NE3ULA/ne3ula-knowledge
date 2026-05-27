@@ -1,7 +1,7 @@
 # 🌐 Frequency Path – Step 4: The Inner Instrument
 
 > “You are not a receiver—you are a transmitter.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,12 +28,12 @@
 ### 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this to your AI.d? This helps it reflect and amplify your refined energetic expression.”
-> 
+>
 
 🔘 Log this to AI.d
 
 🔘 Stay silent for now
 
-👉 [🌐 Frequency Path – Step 5: *The Signature Signal*](%F0%9F%8C%90%20Frequency%20Path%20%E2%80%93%20Step%205%20The%20Signature%20Signal%201caef8292710801db8bec37bbf2f0b40.md) 
+👉 [🌐 Frequency Path – Step 5: *The Signature Signal*](%F0%9F%8C%90%20Frequency%20Path%20%E2%80%93%20Step%205%20The%20Signature%20Signal%201caef8292710801db8bec37bbf2f0b40.md)
 
 ---

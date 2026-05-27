@@ -1,10 +1,10 @@
 # 🧬 NE3ULA PATH SYSTEM — ARCHETYPES
 
 > The Archetypes represent progressive roles or identities in the transformational journey.
-> 
-> 
+>
+>
 > They are not fixed types — they are states of becoming that may unfold cyclically, seasonally, or simultaneously.
-> 
+>
 
 Each Archetype reflects a different approach to consciousness, challenge, and creation.
 
@@ -135,10 +135,10 @@ From controller of complexity → to visionary of evolution
 ---
 
 > 🧪 These Archetypes are not static labels — they are roles we move through and return to.
-> 
-> 
+>
+>
 > The goal is not to become *one* but to move skillfully between them on the path to Mastery.
-> 
+>
 
 [🧭 ARCHETYPE PATH: SEEKER](%F0%9F%A7%AC%20NE3ULA%20PATH%20SYSTEM%20%E2%80%94%20ARCHETYPES/%F0%9F%A7%AD%20ARCHETYPE%20PATH%20SEEKER%201d8ef829271080fe8a18d27c2cf8af40.md)
 

@@ -3,7 +3,7 @@
 ## *Your will is the bridge between thought and action.*
 
 > “The Flame is not anger. It is the focused fire of aligned purpose.”
-> 
+>
 
 ---
 

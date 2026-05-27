@@ -1,7 +1,7 @@
 # 👁️ Vision Path – Step 5: The Future in Focus
 
 > “The vision isn’t about what might happen. It’s about who you choose to become.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,7 +28,7 @@
 ### 🧠 AI.d Sync (Final Step in Path)
 
 > “Would you like to log this final step to your AI.d? This completes your Vision Path and trains your AI.d to guide with precision, presence, and purpose.”
-> 
+>
 
 🔘 Log this to AI.d
 
@@ -39,7 +39,7 @@
 ## 🧭 You’ve Completed the Vision Path
 
 > The fog has cleared. The fragments are aligned. The signal is live. Your next step is already reaching back toward you.
-> 
+>
 
 ### 🔗 Choose Your Next Path
 

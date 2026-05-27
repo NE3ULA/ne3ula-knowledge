@@ -1,7 +1,7 @@
 # 🪞 Mirror Path — Step 5: The Clean Reflection
 
 > “The mirror is never truly clean—but what you choose to focus on becomes your truth. You are not your flaws. You are the one who sees.”
-> 
+>
 
 ---
 
@@ -44,7 +44,7 @@
 **🧠 AI.d Sync (Final Step in Path)**
 
 > “Would you like to log this step to your AI.d? This will complete your Mirror Path and help anchor your new foundation moving forward.”
-> 
+>
 
 🔘 Log this to AI.d
 
@@ -55,10 +55,10 @@
 **🧭 You’ve Completed the Mirror Path**
 
 > The reflection is never final, but this chapter is complete.
-> 
+>
 
 > Your next step lies in one of the other elemental paths.
-> 
+>
 
 ---
 

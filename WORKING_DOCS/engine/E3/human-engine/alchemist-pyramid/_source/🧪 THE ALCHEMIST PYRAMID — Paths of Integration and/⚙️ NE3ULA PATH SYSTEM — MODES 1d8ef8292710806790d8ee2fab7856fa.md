@@ -1,14 +1,14 @@
 # ⚙️ NE3ULA PATH SYSTEM — MODES
 
 > The Modes represent how the user engages with reality —
-> 
-> 
+>
+>
 > the rhythm, motive, and medium of their current experience.
-> 
+>
 > Modes are not fixed personality types.
-> 
+>
 > They are **expressive filters** — lenses through which your identity, energy, and awareness are channeled.
-> 
+>
 
 Each Mode emphasizes a different dimension of **evolution, action, and integration**.
 
@@ -115,14 +115,14 @@ From compulsive doing → to conscious building
 ---
 
 > ⚙️ The Modes are how your current Self-Signal interacts with the world.
-> 
-> 
+>
+>
 > Learning to sense which Mode you’re in — and which you *need* — is one of the fastest ways to shift your reality.
-> 
+>
 > Every player must learn to move between Pleasure, People, and Production…
-> 
+>
 > *until the movements themselves become art.*
-> 
+>
 
 [🌟 MODE PATH: PLEASURE — *The Power of Presence*](%E2%9A%99%EF%B8%8F%20NE3ULA%20PATH%20SYSTEM%20%E2%80%94%20MODES/%F0%9F%8C%9F%20MODE%20PATH%20PLEASURE%20%E2%80%94%20The%20Power%20of%20Presence%201d8ef82927108070bc8dc1ac7f5a388a.md)
 

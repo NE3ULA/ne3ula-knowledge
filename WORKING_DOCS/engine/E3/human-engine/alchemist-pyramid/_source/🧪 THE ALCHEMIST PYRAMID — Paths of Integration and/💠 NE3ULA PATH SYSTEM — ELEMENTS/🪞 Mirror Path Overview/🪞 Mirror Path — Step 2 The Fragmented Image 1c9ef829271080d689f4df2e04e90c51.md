@@ -1,7 +1,7 @@
 # 🪞 Mirror Path — Step 2: The Fragmented Image
 
 > “What you see is not always what is. The mirror doesn’t lie—but it does reflect distortion.”
-> 
+>
 
 ---
 
@@ -44,7 +44,7 @@
 **🧠 AI.d Sync (Optional)**
 
 > “Would you like to log this step to your AI.d? This helps refine how it understands your deeper contradictions and helps align you with your truth moving forward.”
-> 
+>
 
 🔘 Log this to AI.d
 

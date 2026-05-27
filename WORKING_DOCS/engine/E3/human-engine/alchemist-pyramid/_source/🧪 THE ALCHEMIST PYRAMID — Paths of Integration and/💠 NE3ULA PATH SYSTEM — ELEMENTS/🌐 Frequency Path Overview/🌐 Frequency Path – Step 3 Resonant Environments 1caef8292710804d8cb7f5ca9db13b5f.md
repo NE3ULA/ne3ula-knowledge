@@ -1,7 +1,7 @@
 # 🌐 Frequency Path – Step 3: Resonant Environments
 
 > “Your signal is shaped by your surroundings.”
-> 
+>
 
 ### 🔄 RING Reflections
 
@@ -28,12 +28,12 @@
 ### 🧠 AI.d Sync (Optional)
 
 > “Would you like to log this to your AI.d? This trains it to help curate your environments, relationships, and spaces for greater alignment.”
-> 
+>
 
 🔘 Log this to AI.d
 
 🔘 Stay silent for now
 
-👉 [🌐 Frequency Path – Step 4: *The Inner Instrument*](%F0%9F%8C%90%20Frequency%20Path%20%E2%80%93%20Step%204%20The%20Inner%20Instrument%201caef8292710806f8ce0fc147a33a0b0.md) 
+👉 [🌐 Frequency Path – Step 4: *The Inner Instrument*](%F0%9F%8C%90%20Frequency%20Path%20%E2%80%93%20Step%204%20The%20Inner%20Instrument%201caef8292710806f8ce0fc147a33a0b0.md)
 
 ---

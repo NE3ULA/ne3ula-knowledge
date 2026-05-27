@@ -10,9 +10,9 @@ The Polarity Dial allows the system to represent these tensions dynamically.
 
 Examples:
 
-Love ↔ Hate  
-Creation ↔ Destruction  
-Order ↔ Chaos  
+Love ↔ Hate
+Creation ↔ Destruction
+Order ↔ Chaos
 Control ↔ Freedom
 
 The dial does not encourage one pole over the other.
@@ -23,9 +23,9 @@ Instead, it helps users become aware of where they are currently operating withi
 
 Each Path may contain a polarity axis that influences:
 
-• visual tone  
-• narrative framing  
-• Guardian dialogue  
+• visual tone
+• narrative framing
+• Guardian dialogue
 • thematic imagery
 
 For example, a Path focused on emotional development may display different visual aesthetics depending on the user's current polarity position.
@@ -36,8 +36,8 @@ Users can adjust the polarity dial to explore different perspectives within a Pa
 
 This allows the experience to shift between:
 
-• reflective and supportive modes  
-• intense or confrontational modes  
+• reflective and supportive modes
+• intense or confrontational modes
 • constructive or shadow-oriented themes
 
 The dial acts as a way to explore the full range of a concept rather than enforcing a single interpretation.
