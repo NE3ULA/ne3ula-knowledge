@@ -94,6 +94,22 @@ The decision engine is not a single imported framework.
 It is a set of practical heuristics and tools for converting intention into
 clear action.
 
+### Adjacent Execution Incubation
+
+Some execution concepts are still too cross-cutting to canonize inside a single
+E3 component.
+
+Hold those concepts in `WORKING_DOCS/engine/execution/` until their final
+ontology placement is clearer.
+
+Current example:
+
+- `LIFEMODS_INCUBATION.md`
+
+These concepts may draw from Decision Engine, Identity Stack, AI.d,
+instrumentation, and AXZIO without being treated as a permanent new E3 layer
+yet.
+
 ### AI.d
 
 AI.d belongs to the system engine because it is an adaptive reflective layer,
