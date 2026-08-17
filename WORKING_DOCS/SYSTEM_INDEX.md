@@ -16,7 +16,8 @@
 Meaning, myth, lore, cosmology, philosophy, doctrine, becoming, and initiation.
 
 ### engine
-E3, including human-engine and system-engine.
+E3, including human-engine and system-engine, plus lightweight execution
+incubation for cross-cutting action-design concepts such as LifeMods.
 
 ### interface
 AXZIO as the navigation layer.
@@ -39,6 +40,18 @@ philosophy information architecture docs.
 Use this structure for new canonical synthesis.
 
 Do not move archive material directly without intentional review.
+
+## Execution Incubation
+
+Location:
+WORKING_DOCS/engine/execution/
+
+Use this area for docs-first execution concepts that touch decision-engine,
+instrumentation, AI.d, and interface behavior before their final ontology
+placement is stable.
+
+Current document:
+- `LIFEMODS_INCUBATION.md`
 
 ## Path Guardian Pantheon
 
