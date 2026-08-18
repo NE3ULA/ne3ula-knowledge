@@ -1,4 +1,4 @@
-# 9 — INTEGRATION
+# Integration
 
 Nothing in you moves alone.
 
@@ -32,7 +32,7 @@ It is how action becomes learning.
 
 It is how change becomes embodied without becoming rigid.
 
-## BEYOND ISOLATED CHANGE
+## Beyond Isolated Change
 
 A LifeMod can simplify a workflow, protect your energy, or unlock a blocked action. But even a successful modification can create tension elsewhere.
 
@@ -62,7 +62,7 @@ The goal is not perfect balance.
 
 The goal is conscious relationship.
 
-## THE ALCHEMIST PATH
+## The Alchemist Path
 
 Throughout this book, you have been practicing a recurring movement:
 
@@ -70,7 +70,7 @@ Throughout this book, you have been practicing a recurring movement:
 
 This is the Alchemist Path.
 
-### REVEAL
+### Reveal
 
 See what is present.
 
@@ -78,7 +78,7 @@ Notice the spark, the mask, the pattern, the friction, the energy, the story, an
 
 Revelation is not yet explanation. It is the willingness to see before deciding what the seeing must mean.
 
-### INTERPRET
+### Interpret
 
 Enter relationship with what has been revealed.
 
@@ -86,19 +86,19 @@ Ask what it may be showing you. Consider history, identity, energy, environment,
 
 Interpretation gives context to the signal.
 
-### ALIGN
+### Align
 
 Return to chosen truth.
 
 Who are you choosing to be? What do you value? What direction deserves your participation? Alignment does not guarantee comfort. It gives the choice a center.
 
-### ACT
+### Act
 
 Make the next meaningful movement.
 
 Action brings reality into the process. It converts intention into evidence and gives the world an opportunity to answer.
 
-### INTEGRATE
+### Integrate
 
 Retain, revise, release, or repeat what the experience taught you.
 
@@ -112,7 +112,7 @@ This is not failure to complete the path.
 
 This is how the path lives.
 
-## THE ALCHEMIST PYRAMID
+## The Alchemist Pyramid
 
 The Alchemist Path describes the movement.
 
@@ -146,7 +146,7 @@ You do not need to master every layer before using the map.
 
 You need only enough awareness to locate the next meaningful movement.
 
-## THE HERMETIC BASE
+## The Hermetic Base
 
 Every path rests on assumptions about reality.
 
@@ -168,7 +168,7 @@ What is changing beneath the surface?
 
 The foundation does not tell you what to think. It helps you ask wider questions about the reality you are participating in.
 
-## ARCHETYPES — HOW YOU ENTER
+## Archetypes — How You Enter
 
 Archetypes are recurring identity patterns. They describe ways a person may approach transformation.
 
@@ -178,7 +178,7 @@ They are not boxes in which the self must remain.
 
 They are recognizable entry patterns.
 
-### THE SEEKER
+### The Seeker
 
 The Seeker is drawn toward what has not yet been found. This pattern listens for possibility, follows meaningful questions, and moves toward a horizon that cannot be fully explained in advance.
 
@@ -186,7 +186,7 @@ Its gift is openness.
 
 Its risk is endless searching without commitment.
 
-### THE BUILDER
+### The Builder
 
 The Builder gives form to intention. This pattern values structure, repetition, craft, and the patient work through which an idea becomes real.
 
@@ -194,7 +194,7 @@ Its gift is embodiment.
 
 Its risk is constructing a life so rigid that the original purpose disappears inside the structure.
 
-### THE CHALLENGER
+### The Challenger
 
 The Challenger confronts what no longer holds. This pattern tests assumptions, breaks inherited structures, and creates movement through direct encounter with resistance.
 
@@ -202,7 +202,7 @@ Its gift is liberation.
 
 Its risk is allowing opposition itself to become the identity.
 
-### THE ARCHITECT
+### The Architect
 
 The Architect sees relationships among parts. This pattern designs systems, anticipates consequences, and creates structures capable of supporting a larger vision.
 
@@ -216,7 +216,7 @@ The question is not, “Which one am I forever?”
 
 The question is, “How am I entering this moment, and what does that orientation make possible or difficult?”
 
-## CORE ENERGIES — WHAT MOVES BENEATH
+## Core Energies — What Moves Beneath
 
 Beneath roles and behaviors are deeper forces.
 
@@ -246,35 +246,35 @@ An energy is not made coherent merely because it is powerful.
 
 It must be interpreted and integrated.
 
-## ELEMENTS — WHERE THE WORK HAPPENS
+## Elements — Where the Work Happens
 
 The Elements are operational paths of practice. They describe where and how transformation is confronted, refined, and embodied.
 
-### MIRROR
+### Mirror
 
 Mirror is the path of honest reflection.
 
 It reveals roles, contradictions, patterns, and the distance between presentation and lived truth. Mirror asks you to see without immediately defending the image.
 
-### SHADOW
+### Shadow
 
 Shadow is the path of the rejected, hidden, or protected self.
 
 It approaches defended material with responsibility and compassion. Shadow does not glorify harm or excuse behavior. It seeks to understand what has been exiled so it can be integrated rather than allowed to govern unseen.
 
-### FLAME
+### Flame
 
 Flame is the path of will, courage, and directed transformation.
 
 It asks what you are willing to choose, protect, confront, and sustain. Flame creates movement, but without alignment it can consume what it intended to illuminate.
 
-### FREQUENCY
+### Frequency
 
 Frequency is the path of tuning and resonance.
 
 It attends to state, rhythm, signal, environment, and the quality through which a person meets experience. Frequency asks not only what you are doing, but from what condition you are doing it.
 
-### VISION
+### Vision
 
 Vision is the path of possibility brought into focus.
 
@@ -288,7 +288,7 @@ Another may require Frequency before Vision.
 
 The path becomes useful when it helps you recognize the work actually being requested.
 
-## MODES — HOW IT APPEARS IN LIFE
+## Modes — How It Appears in Life
 
 Modes describe practical orientations through which your current signal tends to express itself.
 
@@ -314,7 +314,7 @@ Production can embody purpose or become a machine for proving worth.
 
 Modes change with context. The task is not to select one permanent orientation. It is to notice which mode is active, which is neglected, and whether the present balance serves the whole.
 
-## POLARITY — HOLDING OPPOSING TRUTHS
+## Polarity — Holding Opposing Truths
 
 Much of life cannot be resolved by choosing a single side.
 
@@ -340,11 +340,11 @@ It changes your relationship to it.
 
 You become capable of making a coherent choice without pretending the rejected side never mattered.
 
-## SUPPORTING LENSES
+## Supporting Lenses
 
 Two supporting frameworks help you read any part of the Pyramid. They are not additional tiers.
 
-### MIND, BODY, HEART, SPIRIT
+### Mind, Body, Heart, Spirit
 
 Mind asks what you understand, believe, and perceive.
 
@@ -356,7 +356,7 @@ Spirit asks what gives the experience meaning, direction, connection, or sacred 
 
 Together, these Four Pillars prevent transformation from collapsing into thought alone.
 
-### MYTHOS, LOGOS, PATHOS, ETHOS
+### Mythos, Logos, Pathos, Ethos
 
 Mythos asks what story gives the experience meaning.
 
@@ -370,7 +370,7 @@ Together, these RING lenses widen interpretation. They help reveal what a single
 
 The lenses are useful precisely because no one lens is the whole.
 
-## THE ALCHEMIST RETURNS
+## The Alchemist Returns
 
 At the final layer of the Pyramid is the Alchemist.
 
@@ -402,7 +402,7 @@ Mastery is not never losing the path.
 
 Mastery is learning how to find your way back.
 
-## WHAT MATTERS NOW?
+## What Matters Now?
 
 The Pyramid becomes practical when it helps you choose.
 
@@ -438,17 +438,17 @@ The decision creates movement.
 
 Reality provides the next signal.
 
-## E3 PRACTICE — MAP THE PRESENT MOMENT
+## E3 Practice
 
 Choose one situation that currently carries friction, uncertainty, or contradiction.
 
-### REVEAL
+### Reveal
 
 What is happening across mind, body, heart, and spirit?
 
 What are you thinking, sensing, feeling, and reaching toward?
 
-### INTERPRET
+### Interpret
 
 Use only the parts of the Pyramid that create genuine clarity.
 
@@ -460,19 +460,19 @@ Use only the parts of the Pyramid that create genuine clarity.
 
 Do not force an answer for every layer.
 
-### ALIGN
+### Align
 
 What truth, value, or chosen identity must remain central as you move?
 
 What would coherence mean here—not perfection, but honest relationship among the parts?
 
-### ACT
+### Act
 
 What is the next integrated action?
 
 Choose a movement that responds to the situation without abandoning the wider system.
 
-### INTEGRATE
+### Integrate
 
 How will you return?
 
@@ -480,7 +480,7 @@ Name the signal that will tell you it is time to reflect, recalibrate, or choose
 
 The practice is complete when it produces a living next step—not when every layer has been analyzed.
 
-## LIVE BEYOND THE MAP
+## Live Beyond the Map
 
 A map is valuable because it helps you move through territory.
 

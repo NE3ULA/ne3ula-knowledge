@@ -1,4 +1,4 @@
-# 10 — LIVE YOUR LEGEND
+# Live Your Legend
 
 The path leaves the page.
 
@@ -18,7 +18,7 @@ The book ends.
 
 The practice continues.
 
-## A LEGEND IS A LIFE, NOT AN IMAGE
+## A Legend Is a Life, Not an Image
 
 A legend is not fame.
 
@@ -48,7 +48,7 @@ Repeatedly.
 
 In forms only your life can take.
 
-## YOU HAVE ALREADY BEGUN
+## You Have Already Begun
 
 You began by recognizing the Spark—the movement that appears before the full path is visible.
 
@@ -88,7 +88,7 @@ The repetition is not evidence that you failed to finish.
 
 It is evidence that you are alive.
 
-## THE IDENTITY LAUNCH SEQUENCE
+## The Identity Launch Sequence
 
 Transformation often moves through a recognizable progression:
 
@@ -102,7 +102,7 @@ The sequence is a map of movement, not a measure of rank.
 
 It helps you ask where life is currently inviting participation—and what kind of movement may be needed next.
 
-## LOVE — DISCOVER WHAT MATTERS
+## Love — Discover What Matters
 
 Before direction becomes strategy, something matters.
 
@@ -124,7 +124,7 @@ Love does not guarantee that you know what to do.
 
 It tells you why the question matters.
 
-## HOPE — PERMIT POSSIBILITY
+## Hope — Permit Possibility
 
 Hope is not certainty that events will unfold as desired.
 
@@ -142,7 +142,7 @@ Where love says, “This matters,” hope says, “Something may still be possib
 
 That possibility is enough to continue.
 
-## DREAM — GIVE POSSIBILITY FORM
+## Dream — Give Possibility Form
 
 A dream gives possibility an image.
 
@@ -166,7 +166,7 @@ What life would allow it to breathe?
 
 What might exist if I participated?
 
-## BELIEVE — INVEST BEFORE CERTAINTY
+## Believe — Invest Before Certainty
 
 Belief is often misunderstood as complete confidence.
 
@@ -188,7 +188,7 @@ It means they do not automatically end your participation.
 
 You believe enough to test the possibility against reality.
 
-## BEGIN — CROSS THE THRESHOLD
+## Begin — Cross the Threshold
 
 Beginning changes the relationship.
 
@@ -216,7 +216,7 @@ It produces the first evidence from which the path can evolve.
 
 The beginning matters because it ends the fantasy that more thinking can substitute for participation.
 
-## BUILD — CREATE EVIDENCE AND STRUCTURE
+## Build — Create Evidence and Structure
 
 A beginning opens the path.
 
@@ -240,7 +240,7 @@ Every honest review makes the structure more intelligent.
 
 Every return strengthens your ability to continue without pretending you never drifted.
 
-## BECOME — LET PARTICIPATION CHANGE YOU
+## Become — Let Participation Change You
 
 At some point, the work is no longer only something you are doing.
 
@@ -266,7 +266,7 @@ You give form to who you choose to be.
 
 Then you remain willing to learn from who that choice reveals.
 
-## LIVE YOUR LEGEND — EMBODY THE STORY
+## Live Your Legend — Embody the Story
 
 Your legend is not waiting at the end of the path.
 
@@ -300,7 +300,7 @@ The measure is not how impressive the story appears.
 
 The measure is whether it has become more truthful, more coherent, and more fully lived.
 
-## FORGE THE MYTH — MAKE MEANING FROM EXPERIENCE
+## Forge the Myth — Make Meaning from Experience
 
 Earlier, you learned to recognize myth: the inherited and chosen stories that shape perception, identity, and possibility.
 
@@ -346,29 +346,29 @@ Give shape to another dream.
 
 The sequence begins again—not from the same place, but from a life changed by participation.
 
-## THE E3 FIELD GUIDE
+## The E3 Field Guide
 
 You do not need to remember every term in this book to continue the work.
 
 Return to the essential movement.
 
-### NOTICE WHAT IS CALLING
+### Notice What Is Calling
 
 Listen for the spark, the friction, the repeated pattern, the change in energy, or the possibility asking for attention.
 
-### REVEAL WHAT IS SHAPING YOU
+### Reveal What Is Shaping You
 
 Look for masks, inherited scripts, environmental conditions, unmet needs, and assumptions operating beneath the surface.
 
-### INTERPRET THE PRESENT CONDITION
+### Interpret the Present Condition
 
 Read the Human Battery. Consider mind, body, heart, and spirit. Use the Pyramid only where it creates clarity.
 
-### RETURN TO AUTHORED IDENTITY
+### Return to Authored Identity
 
 Ask who you are choosing to be and what values deserve expression in this moment.
 
-### CHOOSE THE NEXT MEANINGFUL ACTION
+### Choose the Next Meaningful Action
 
 Use the Decision Engine:
 
@@ -376,19 +376,19 @@ What matters now?
 
 What comes next?
 
-### MODIFY AVOIDABLE FRICTION
+### Modify Avoidable Friction
 
 When the conditions repeatedly work against aligned action, design a LifeMod. Change the environment, behavior, tool, rhythm, boundary, or framing.
 
-### REVIEW REALITY’S RESPONSE
+### Review Reality’s Response
 
 Observe what happened without converting the outcome into a judgment of your worth.
 
-### INTEGRATE WHAT WAS LEARNED
+### Integrate What Was Learned
 
 Retain, revise, release, or repeat.
 
-### RETURN WHEN YOU DRIFT
+### Return When You Drift
 
 Drift is not the end of the path.
 
@@ -398,19 +398,19 @@ Learn from it.
 
 Return.
 
-## E3 PRACTICE — THE NEXT LIVING STEP
+## E3 Practice
 
 The purpose of this final practice is not to summarize the book.
 
 It is to leave the book through action.
 
-### REVEAL
+### Reveal
 
 What is asking to be lived now?
 
 Name one love, possibility, truth, tension, or unfinished movement that deserves your participation.
 
-### INTERPRET
+### Interpret
 
 Where are you in the Identity Launch Sequence?
 
@@ -418,7 +418,7 @@ Do you need to recognize what matters, permit possibility, form the dream, inves
 
 Choose the movement that creates clarity. Do not use the sequence to judge your progress.
 
-### ALIGN
+### Align
 
 Who are you choosing to become through this movement?
 
@@ -428,7 +428,7 @@ Write one sentence:
 
 Let the answer describe a way of being, not merely an outcome to acquire.
 
-### ACT
+### Act
 
 Choose two commitments.
 
@@ -442,7 +442,7 @@ What structure, repetition, conversation, or LifeMod will support it?
 
 Make both commitments small enough to enter reality and meaningful enough to create evidence.
 
-### INTEGRATE
+### Integrate
 
 Choose the moment when you will return.
 
@@ -459,7 +459,7 @@ The practice is not complete when the answers are beautiful.
 
 It is complete when the first action has begun.
 
-## WE ARE ALCHEMY
+## We Are Alchemy
 
 You are changing.
 

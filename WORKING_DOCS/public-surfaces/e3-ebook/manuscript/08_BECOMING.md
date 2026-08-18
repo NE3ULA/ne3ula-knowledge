@@ -1,4 +1,4 @@
-# 8 — BECOMING
+# Becoming
 
 Myth must become matter.
 
@@ -28,7 +28,7 @@ You do not become through intention alone.
 
 You become through what intention teaches you to change.
 
-## THE DISTANCE BETWEEN IDENTITY AND LIFE
+## The Distance Between Identity and Life
 
 There is often a distance between the identity you choose and the life you currently inhabit.
 
@@ -54,7 +54,7 @@ Sometimes the person does not need more pressure.
 
 The system needs a better design.
 
-## FRICTION IS INFORMATION
+## Friction Is Information
 
 Friction is the drag between intention and action.
 
@@ -90,7 +90,7 @@ The Alchemist does not begin with condemnation.
 
 The Alchemist studies the conditions.
 
-## LIFE MODS
+## LifeMods
 
 A LifeMod is a deliberate change designed to reduce friction or create a more supportive condition for becoming.
 
@@ -121,7 +121,7 @@ A LifeMod does not ask, “How do I force myself to comply?”
 
 It asks, “What could I change so the next aligned action becomes clearer, easier to begin, or more sustainable?”
 
-## LEGEND FUNCTIONS
+## Legend Functions
 
 Every useful modification should serve a purpose. The Legend Functions provide a simple language for naming that purpose.
 
@@ -149,19 +149,19 @@ Clarity strengthens design.
 
 When you know what the modification is meant to do, you can judge it by what happens—not by how impressive the plan sounds.
 
-## BUILD ONE LIFE MOD
+## Build One LifeMod
 
 A LifeMod can be captured without creating an elaborate system.
 
 Start with five elements.
 
-### 1. THE FRICTION
+### 1. The Friction
 
 What repeatedly creates drag, confusion, delay, or misalignment?
 
 Describe what happens without turning the description into an attack on yourself.
 
-### 2. CURRENT AND DESIRED STATES
+### 2. Current and Desired States
 
 What is happening now?
 
@@ -169,13 +169,13 @@ What would a more aligned condition look like?
 
 The desired state should be concrete enough to recognize in lived experience.
 
-### 3. LEGEND FUNCTION
+### 3. Legend Function
 
 Does this modification need to unlock, accelerate, stabilize, protect, simplify, repair, remove, or expand?
 
 Choose the function that best names the work.
 
-### 4. IMPACT AND EFFORT
+### 4. Impact and Effort
 
 How meaningful could this change be?
 
@@ -183,7 +183,7 @@ What will it realistically require?
 
 High-impact, low-effort changes are often strong places to begin. High-effort changes may still matter, but they deserve honest preparation.
 
-### 5. NEXT ACTION
+### 5. Next Action
 
 What is the smallest concrete action that begins the modification?
 
@@ -195,13 +195,13 @@ The next visible move.
 
 Becoming becomes real at the scale of action.
 
-## THE BECOMING CYCLE
+## The Becoming Cycle
 
 LifeMods move through a practical cycle:
 
 **Detect → Capture → Evaluate → Execute → Review → Evolve**
 
-### DETECT
+### Detect
 
 Notice friction or opportunity.
 
@@ -209,7 +209,7 @@ Something repeatedly drains energy. A process keeps breaking. A desired action r
 
 Detection begins with attention, not accusation.
 
-### CAPTURE
+### Capture
 
 Give the pattern a name.
 
@@ -217,7 +217,7 @@ Move it out of vague frustration and into a form you can examine. Describe the f
 
 Capture prevents insight from disappearing back into noise.
 
-### EVALUATE
+### Evaluate
 
 Assess the proposed change.
 
@@ -225,7 +225,7 @@ What function would it serve? How clear is it? What impact might it have? What e
 
 Evaluation is not an excuse for endless analysis. It is enough thought to support an intelligent next move.
 
-### EXECUTE
+### Execute
 
 Take the next action.
 
@@ -233,7 +233,7 @@ Reality must now enter the process. A modification cannot be understood complete
 
 Execution produces evidence.
 
-### REVIEW
+### Review
 
 Observe what happened.
 
@@ -241,7 +241,7 @@ Did the modification reduce friction? Did it create another problem? Did it supp
 
 Review the result without converting it into a judgment of your worth.
 
-### EVOLVE
+### Evolve
 
 Refine the modification—or yourself—using what reality revealed.
 
@@ -251,7 +251,7 @@ Evolution is not failure of the original design.
 
 Evolution is the design becoming more intelligent.
 
-## WHEN YOU NEED MORE LIFE, NOT MORE ANALYSIS
+## When You Need More Life, Not More Analysis
 
 Sometimes evaluation cannot produce clarity because you do not yet have enough lived information.
 
@@ -281,7 +281,7 @@ The main Becoming Cycle continues to guide the modification. The reality-gatheri
 
 The system must know when to release you from the system.
 
-## MOMENTUM MAKES IDENTITY TANGIBLE
+## Momentum Makes Identity Tangible
 
 One action rarely completes a transformation.
 
@@ -315,7 +315,7 @@ The person you chose to become is no longer only an idea.
 
 They have somewhere to stand.
 
-## DO NOT BECOME A MACHINE
+## Do Not Become a Machine
 
 Any system can become another mask.
 
@@ -343,35 +343,35 @@ Becoming is not control over life.
 
 It is a more conscious relationship with change.
 
-## E3 PRACTICE — BUILD A LIFE MOD
+## E3 Practice
 
 Choose one point of recurring friction. Keep the practice small enough to use now.
 
-### REVEAL
+### Reveal
 
 What repeatedly creates drag, confusion, delay, or misalignment?
 
 Describe the pattern without describing yourself as the problem.
 
-### INTERPRET
+### Interpret
 
 What might this friction be showing you?
 
 Consider clarity, energy, environment, timing, tools, support, identity, and expectation.
 
-### ALIGN
+### Align
 
 What chosen identity, value, or meaningful direction should the modification support?
 
 Which Legend Function best describes its purpose?
 
-### ACT
+### Act
 
 What is the smallest useful change you can make?
 
 Write the immediate next action, then give it a real place in your life.
 
-### INTEGRATE
+### Integrate
 
 When will you review what happened?
 
@@ -385,7 +385,7 @@ Do not ask whether the result proves your worth.
 
 Ask whether the design helped you live in greater alignment.
 
-## FROM MODIFICATION TO INTEGRATION
+## From Modification to Integration
 
 A LifeMod can change one point of friction.
 
