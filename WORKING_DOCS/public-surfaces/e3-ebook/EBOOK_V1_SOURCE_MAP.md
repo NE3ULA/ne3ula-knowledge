@@ -2,7 +2,7 @@
 
 Status: Canonical planning document for Ebook V1
 Product role: E3 philosophy and human-readable MVP of the future AXZIO experience
-Branch: `agent/ebook-v1-canonical`
+Branch: `agent/ebook-v1-manuscript`
 
 ## Current Objective
 
@@ -44,6 +44,21 @@ Application development is outside Ebook V1 scope and must not block launch.
 
 `INTEGRATION` remains the chapter title. The Alchemist Path remains the named
 method used within the text.
+
+## Release Candidate Package
+
+- Ebook V1 is packaged as a release candidate.
+- Reader-facing file: `WE_ARE_ALCHEMY_E3_FIELD_GUIDE_V1.pdf`
+- Repository path: `WORKING_DOCS/public-surfaces/e3-ebook/release/v1/WE_ARE_ALCHEMY_E3_FIELD_GUIDE_V1.pdf`
+- Technical validation is complete: the release PDF has 129 pages at 432 × 648
+  points, embedded Unicode-mapped Arial fonts, searchable text, complete
+  successful rendering, and no cross-reference or font-resource errors.
+- All ten chapters remain approved.
+- The title and subtitle are locked for V1: *WE ARE ALCHEMY — An E3 Field Guide
+  to Identity, Action, and Living Your Legend*.
+- Final human launch approval remains pending.
+- Lead-magnet derivation is the next production phase.
+- The companion workbook remains parked.
 
 ## Required System Concepts
 
@@ -235,7 +250,6 @@ relationship to the wider system are finalized.
 
 ## Still Unresolved
 
-- final ebook title and subtitle
 - target manuscript length
 - exact allocation of existing prose to chapters
 - final exercise count and formatting
