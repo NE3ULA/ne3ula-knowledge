@@ -62,6 +62,15 @@ method used within the text.
 - The next production phase is derivation of the free lead magnet.
 - The companion workbook remains parked.
 
+## Derived E3 Reset Lead Magnet V1
+
+- Ebook V1 is complete.
+- The derived E3 Reset Lead Magnet V1 has been designed and approved.
+- Public launch is pending only public-page activation and deployment.
+- The Framer `/we-are-alchemy` sales page must be published before launch; its
+  current 404 is an external launch dependency, not a PDF defect.
+- The companion workbook remains parked.
+
 ## Required System Concepts
 
 - E3 as the transformation engine of NE3ULA
