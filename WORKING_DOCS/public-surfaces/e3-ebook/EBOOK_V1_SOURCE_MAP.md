@@ -2,7 +2,7 @@
 
 Status: Canonical planning document for Ebook V1
 Product role: E3 philosophy and human-readable MVP of the future AXZIO experience
-Branch: `agent/ebook-v1-canonical`
+Branch: `agent/ebook-v1-manuscript`
 
 ## Current Objective
 
@@ -44,6 +44,23 @@ Application development is outside Ebook V1 scope and must not block launch.
 
 `INTEGRATION` remains the chapter title. The Alchemist Path remains the named
 method used within the text.
+
+## Launch-Approved Release Package
+
+- Ebook V1 is approved for launch.
+- Reader-facing file: `WE_ARE_ALCHEMY_E3_FIELD_GUIDE_V1.pdf`
+- Repository path: `WORKING_DOCS/public-surfaces/e3-ebook/release/v1/WE_ARE_ALCHEMY_E3_FIELD_GUIDE_V1.pdf`
+- Approved SHA-256: `fe4e10a9257d752b6c2649277e04ad1cba4f0119b032a94d2c682b67f099cb96`
+- Final page count: 129.
+- Technical validation is complete: the release PDF has 129 pages at 432 × 648
+  points, embedded Unicode-mapped Arial fonts, searchable text, complete
+  successful rendering, and no cross-reference or font-resource errors.
+- All ten chapters remain approved.
+- The title and subtitle are locked for V1: *WE ARE ALCHEMY — An E3 Field Guide
+  to Identity, Action, and Living Your Legend*.
+- Human launch approval has been received.
+- The next production phase is derivation of the free lead magnet.
+- The companion workbook remains parked.
 
 ## Required System Concepts
 
@@ -233,22 +250,23 @@ relationship to the wider system are finalized.
 7. Keep AXZIO implementation, database design, and application development out
    of the launch-critical manuscript path.
 
-## Still Unresolved
+## Post-Launch Iteration Backlog
 
-- final ebook title and subtitle
-- target manuscript length
-- exact allocation of existing prose to chapters
-- final exercise count and formatting
-- precise placement of both four-line mantras
-- whether the Four Primitives are named explicitly or used as an internal lens
-- final reconciliation of the LifeMods execution flow and reflection loop
-- final terminology pass to remove generic or AI-coded language
+None of these items block the approved V1 release.
 
-## Immediate Production Sequence
+- Gather reader and expert feedback.
+- Consider terminology refinements for a future edition.
+- Consider future exercise expansion.
+- Develop the companion workbook only when separately activated.
+- Deepen consolidation of approved chat-derived concepts into repository canon.
 
-1. Consolidate chapter-level source excerpts using this map.
-2. Produce the complete Ebook V1 manuscript.
-3. Derive the free lead-magnet PDF.
-4. Build the email capture and ebook checkout funnel.
-5. Derive physical products from the strongest concepts.
-6. Complete the Artifacts storefront.
+## Post-Approval Production Sequence
+
+1. Merge the approved Ebook V1 branch after PR review.
+2. Derive the free lead-magnet PDF from Ebook V1.
+3. Build the email-capture and ebook-checkout funnel.
+4. Launch and collect reader feedback.
+5. Use validated feedback to inform future ebook iterations.
+6. Keep the companion workbook parked until separately activated.
+7. Derive physical products from the strongest validated concepts.
+8. Complete the Artifacts storefront.
