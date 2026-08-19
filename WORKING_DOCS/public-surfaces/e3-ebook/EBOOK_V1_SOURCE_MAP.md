@@ -250,21 +250,23 @@ relationship to the wider system are finalized.
 7. Keep AXZIO implementation, database design, and application development out
    of the launch-critical manuscript path.
 
-## Still Unresolved
+## Post-Launch Iteration Backlog
 
-- target manuscript length
-- exact allocation of existing prose to chapters
-- final exercise count and formatting
-- precise placement of both four-line mantras
-- whether the Four Primitives are named explicitly or used as an internal lens
-- final reconciliation of the LifeMods execution flow and reflection loop
-- final terminology pass to remove generic or AI-coded language
+None of these items block the approved V1 release.
 
-## Immediate Production Sequence
+- Gather reader and expert feedback.
+- Consider terminology refinements for a future edition.
+- Consider future exercise expansion.
+- Develop the companion workbook only when separately activated.
+- Deepen consolidation of approved chat-derived concepts into repository canon.
 
-1. Consolidate chapter-level source excerpts using this map.
-2. Produce the complete Ebook V1 manuscript.
-3. Derive the free lead-magnet PDF.
-4. Build the email capture and ebook checkout funnel.
-5. Derive physical products from the strongest concepts.
-6. Complete the Artifacts storefront.
+## Post-Approval Production Sequence
+
+1. Merge the approved Ebook V1 branch after PR review.
+2. Derive the free lead-magnet PDF from Ebook V1.
+3. Build the email-capture and ebook-checkout funnel.
+4. Launch and collect reader feedback.
+5. Use validated feedback to inform future ebook iterations.
+6. Keep the companion workbook parked until separately activated.
+7. Derive physical products from the strongest validated concepts.
+8. Complete the Artifacts storefront.

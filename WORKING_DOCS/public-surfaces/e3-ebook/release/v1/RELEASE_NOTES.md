@@ -10,7 +10,7 @@ An E3 Field Guide to Identity, Action, and Living Your Legend
 
 ## Status
 
-Ebook V1 release candidate
+Ebook V1 approved for launch
 
 ## Reader-facing file
 
@@ -43,10 +43,11 @@ An E3 Field Guide to Identity, Action, and Living Your Legend
 
 ## Current scope
 
-- Ebook V1 is complete and packaged as a release candidate.
+- Ebook V1 is complete, validated, and approved for launch.
+- The reader-facing release file is final for V1.
+- Human launch approval has been received.
 - The companion workbook remains parked.
 - Lead-magnet derivation is the next production phase.
-- Final human launch approval remains pending.
 
 ## Validation
 
