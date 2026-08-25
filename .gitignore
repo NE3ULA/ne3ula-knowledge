@@ -1,1 +1,4 @@
 .DS_Store
+
+# Local audiobook render archives; audio distribution is handled outside GitHub.
+/WORKING_DOCS/public-surfaces/e3-ebook/release/v1-audio/
