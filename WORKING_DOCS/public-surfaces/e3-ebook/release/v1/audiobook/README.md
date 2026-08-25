@@ -15,3 +15,8 @@ The manifest contains 10 chapters, 216 navigable sections, and 1,695 stable narr
 ## Audio storage
 
 MP3 audiobook renders are intentionally not stored in GitHub. Audio distribution and storage will be handled separately.
+
+### Download archives
+
+- [Female narration ZIP archive](https://drive.google.com/file/d/1ybShnA82432dhYm4-lIIf6qWYAZ_MkYN/view?usp=drive_link)
+- [Male narration ZIP archive](https://drive.google.com/file/d/1Lkp-b54HjAhRc7OUSfuCIMXZEslTs9AA/view?usp=drive_link)
